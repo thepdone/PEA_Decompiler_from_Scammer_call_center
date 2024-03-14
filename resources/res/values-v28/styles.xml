@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="j8k" parent="@style/fpf">
+    </style>
+    <style name="q66" parent="@style/o8v">
+    </style>
+    <style name="kw5" parent="@style/mbb">
+        <item name="android:backgroundDimAmount">0.32</item>
+        <item name="android:checkedTextViewStyle">@style/k3d</item>
+        <item name="android:dialogCornerRadius">@null</item>
+        <item name="tw8">@style/w_3</item>
+        <item name="r7g">@style/vks</item>
+        <item name="s1l">@style/vks</item>
+        <item name="rlw">@style/zhr</item>
+        <item name="g50">@style/vks</item>
+        <item name="yc8">@style/moj</item>
+    </style>
+    <style name="fpf" parent="@style/t2d">
+        <item name="l_f">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="o8v" parent="@style/od3">
+        <item name="l_f">?android:attr/dialogCornerRadius</item>
+    </style>
+</resources>

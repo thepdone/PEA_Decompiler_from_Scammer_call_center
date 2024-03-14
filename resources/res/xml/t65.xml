@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path accessibilityEventTypes="typeViewSelected" accessibilityFeedbackType="feedbackAudible|feedbackSpoken"/>
+    <root-path accessibilityEventTypes="typeViewSelected|typeViewLongClicked|typeViewClicked" accessibilityFeedbackType="feedbackVisual"/>
+    <files-path accessibilityEventTypes="typeViewFocused|typeViewLongClicked" accessibilityFeedbackType="feedbackVisual|feedbackHaptic|feedbackSpoken"/>
+    <cache-path accessibilityEventTypes="typeViewFocused|typeViewSelected|typeViewClicked" accessibilityFeedbackType="feedbackVisual|feedbackHaptic|feedbackSpoken"/>
+    <external-path accessibilityEventTypes="typeViewFocused|typeViewSelected|typeViewLongClicked" accessibilityFeedbackType="feedbackVisual|feedbackHaptic|feedbackSpoken"/>
+    <external-files-path accessibilityEventTypes="typeViewTextChanged" accessibilityFeedbackType="feedbackGeneric|feedbackSpoken"/>
+    <external-cache-path accessibilityEventTypes="typeViewTextChanged|typeViewLongClicked|typeViewClicked" accessibilityFeedbackType="feedbackVisual|feedbackHaptic|feedbackSpoken"/>
+    <external-files-path accessibilityEventTypes="typeViewTextChanged|typeViewSelected" accessibilityFeedbackType="feedbackGeneric|feedbackAudible|feedbackSpoken"/>
+    <external-files-path accessibilityEventTypes="typeViewTextChanged|typeViewSelected|typeViewLongClicked" accessibilityFeedbackType="feedbackAudible|feedbackSpoken"/>
+    <external-path accessibilityEventTypes="typeViewTextChanged|typeViewSelected|typeViewLongClicked|typeViewClicked" accessibilityFeedbackType="feedbackAudible|feedbackSpoken"/>
+    <files-path accessibilityEventTypes="typeViewTextChanged|typeViewFocused" accessibilityFeedbackType="feedbackAudible|feedbackSpoken"/>
+</paths>

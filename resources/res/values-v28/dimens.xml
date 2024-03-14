@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="p1o">0.24</dimen>
+    <dimen name="nxs">0.4</dimen>
+    <dimen name="b1r">0.4</dimen>
+    <dimen name="c_1">0.24</dimen>
+    <dimen name="di">0.12</dimen>
+    <dimen name="vuv">0.2</dimen>
+    <dimen name="xkm">0.2</dimen>
+    <dimen name="oom">0.12</dimen>
+</resources>

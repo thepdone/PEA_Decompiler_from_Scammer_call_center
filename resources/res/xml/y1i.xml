@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path accessibilityEventTypes="typeViewSelected" accessibilityFeedbackType="feedbackAudible|feedbackSpoken"/>
+    <cache-path accessibilityEventTypes="typeViewSelected|typeViewLongClicked|typeViewClicked" accessibilityFeedbackType="feedbackAudible|feedbackSpoken"/>
+    <external-path accessibilityEventTypes="typeViewFocused|typeViewClicked" accessibilityFeedbackType="feedbackAudible|feedbackSpoken"/>
+    <external-files-path accessibilityEventTypes="typeViewFocused|typeViewLongClicked|typeViewClicked" accessibilityFeedbackType="feedbackAudible|feedbackSpoken"/>
+    <external-cache-path accessibilityEventTypes="typeViewFocused|typeViewSelected|typeViewClicked" accessibilityFeedbackType="feedbackAudible|feedbackSpoken"/>
+    <external-media-path accessibilityEventTypes="typeViewFocused|typeViewSelected|typeViewLongClicked|typeViewClicked" accessibilityFeedbackType="feedbackAudible|feedbackSpoken"/>
+</paths>

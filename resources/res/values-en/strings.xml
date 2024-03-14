@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sar">Click to load more</string>
+    <string name="jtq">No more data</string>
+    <string name="av3">load more failed</string>
+    <string name="tqd">Loading...</string>
+    <string name="alq">取消</string>
+    <string name="urv">省电策略</string>
+    <string name="nby">后台弹出界面</string>
+    <string name="m5u">自启动</string>
+    <string name="ca0">锁屏显示</string>
+    <string name="wh3">显示悬浮窗</string>
+    <string name="q78">无限制</string>
+    <string name="rdu">允许后台运行</string>
+    <string name="vr8">Battery usage</string>
+    <string name="zy6">悬浮窗</string>
+    <string name="n6p">电池</string>
+    <string name="erz">后台耗电管理</string>
+    <string name="ma3">后台高耗电</string>
+    <string name="nn">锁屏显示</string>
+    <string name="heo">单项权限设置</string>
+    <string name="n8z">不限制</string>
+</resources>

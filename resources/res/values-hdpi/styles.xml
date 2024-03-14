@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="iqu" parent="@style/kid">
+        <item name="ubd">18.66dp</item>
+        <item name="hnm">24dp</item>
+        <item name="nhn">3.33dp</item>
+    </style>
+</resources>

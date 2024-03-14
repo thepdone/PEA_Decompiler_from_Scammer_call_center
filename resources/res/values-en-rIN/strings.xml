@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d4k">Navigate home</string>
+    <string name="u1g">Navigate up</string>
+    <string name="gji">More options</string>
+    <string name="i9r">Done</string>
+    <string name="gy7">See all</string>
+    <string name="pqz">Choose an app</string>
+    <string name="a_v">OFF</string>
+    <string name="qet">ON</string>
+    <string name="wco">Alt+</string>
+    <string name="ku5">Ctrl+</string>
+    <string name="xkm">delete</string>
+    <string name="vpl">enter</string>
+    <string name="gvl">Function+</string>
+    <string name="lnr">Meta+</string>
+    <string name="dcx">Shift+</string>
+    <string name="nb_">space</string>
+    <string name="jxk">Sym+</string>
+    <string name="qf">Menu+</string>
+    <string name="mn_">Search…</string>
+    <string name="e9s">Clear query</string>
+    <string name="is3">Search query</string>
+    <string name="s78">Search</string>
+    <string name="nig">Submit query</string>
+    <string name="f2y">Voice search</string>
+    <string name="hbh">Share with</string>
+    <string name="eg3">Share with %s</string>
+    <string name="brn">Collapse</string>
+    <string name="m5p">Search</string>
+    <string name="huk">999+</string>
+</resources>

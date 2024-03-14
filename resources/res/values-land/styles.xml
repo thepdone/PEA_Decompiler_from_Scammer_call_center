@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="xpo" parent="@style/a62">
+        <item name="jhs">i88</item>
+        <item name="ikr">twa</item>
+    </style>
+    <style name="lob" parent="@style/n1o">
+        <item name="android:textAppearance">?attr/nyq</item>
+        <item name="android:textColor">?attr/h25</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">@integer/pnb</item>
+    </style>
+</resources>

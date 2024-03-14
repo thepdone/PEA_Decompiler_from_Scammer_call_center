@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="u00">24dp</dimen>
+    <dimen name="y02">80dp</dimen>
+    <dimen name="vyd">64dp</dimen>
+    <dimen name="poo">8dp</dimen>
+    <dimen name="iwg">8dp</dimen>
+    <dimen name="vz1">580dp</dimen>
+    <dimen name="p9p">16dp</dimen>
+    <dimen name="t2p">20dp</dimen>
+    <dimen name="xlx">320dp</dimen>
+    <dimen name="e6y">0dp</dimen>
+    <dimen name="yt2">2dp</dimen>
+    <dimen name="vao">24dp</dimen>
+    <dimen name="xwk">576dp</dimen>
+    <dimen name="pit">320dp</dimen>
+    <dimen name="q1g">@dimen/vox</dimen>
+    <dimen name="yzk">160dp</dimen>
+    <dimen name="jcw">64dp</dimen>
+    <dimen name="m9u">64dp</dimen>
+</resources>

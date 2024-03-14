@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="y8u" parent="@style/vyr">
+    </style>
+    <style name="oca" parent="@style/vyr">
+    </style>
+    <style name="lbl" parent="@style/tk8">
+    </style>
+    <style name="bhh" parent="@style/v0q">
+    </style>
+    <style name="pkc" parent="@style/zse">
+    </style>
+    <style name="y84" parent="@style/dw8">
+    </style>
+    <style name="qlg" parent="@style/fwu">
+    </style>
+    <style name="pe9" parent="@style/pab">
+    </style>
+    <style name="uye" parent="@style/jrf">
+    </style>
+    <style name="l25" parent="@style/rcq">
+    </style>
+    <style name="gcj" parent="@style/pab">
+    </style>
+    <style name="j5p" parent="@style/rcq">
+    </style>
+    <style name="l_2" parent="@style/bx">
+    </style>
+    <style name="uil" parent="@style/ld4">
+    </style>
+    <style name="eai" parent="@style/zhn">
+    </style>
+    <style name="pzt" parent="@style/rss">
+    </style>
+    <style name="cx6" parent="@style/p19">
+    </style>
+    <style name="x0u" parent="@style/qgl">
+    </style>
+    <style name="jm3" parent="@style/gja">
+    </style>
+    <style name="oks" parent="@style/yjj">
+    </style>
+    <style name="m" parent="@style/axz">
+    </style>
+    <style name="bcy" parent="@style/i5i">
+    </style>
+    <style name="fx0" parent="@style/ipf">
+    </style>
+    <style name="h9k" parent="@style/mbt">
+    </style>
+    <style name="r5m" parent="@style/evn">
+    </style>
+    <style name="mza" parent="@style/p_3">
+    </style>
+    <style name="yz_" parent="@style/ah8">
+    </style>
+    <style name="kaz" parent="@style/s96">
+    </style>
+    <style name="r0n" parent="@style/zsj">
+    </style>
+    <style name="u4w" parent="@style/xmx">
+    </style>
+    <style name="g8v" parent="@style/thc">
+    </style>
+</resources>

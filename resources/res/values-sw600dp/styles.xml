@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="xpo" parent="@style/a62">
+        <item name="jhs">i88</item>
+        <item name="ikr">twa</item>
+    </style>
+</resources>

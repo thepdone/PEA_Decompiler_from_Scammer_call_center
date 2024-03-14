@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vyd">48dp</dimen>
+    <dimen name="p9p">12dp</dimen>
+    <dimen name="t2p">14dp</dimen>
+    <dimen name="r89">450dp</dimen>
+    <dimen name="ni8">600dp</dimen>
+    <dimen name="va7">24dp</dimen>
+    <dimen name="wmf">24dp</dimen>
+    <dimen name="vt2">20dp</dimen>
+    <dimen name="rpc">4dp</dimen>
+    <dimen name="cbj">96dp</dimen>
+    <dimen name="p7j">0dp</dimen>
+    <dimen name="aqn">0dp</dimen>
+    <dimen name="gga">104dp</dimen>
+    <dimen name="ztj">68dp</dimen>
+    <dimen name="u54">28dp</dimen>
+    <dimen name="vy2">64dp</dimen>
+    <dimen name="edz">32dp</dimen>
+    <dimen name="ae_">24dp</dimen>
+    <dimen name="e3_">32dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ych" parent="@style/kcx">
+    </style>
+    <style name="k33" parent="@style/w83">
+    </style>
+    <style name="ky1" parent="@style/zi3">
+    </style>
+    <style name="k35" parent="@style/ydw">
+    </style>
+</resources>

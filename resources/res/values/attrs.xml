@@ -1,0 +1,3562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="rdz" format="boolean">
+    </attr>
+    <attr name="ksu" format="integer">
+    </attr>
+    <attr name="xo1" format="reference">
+    </attr>
+    <attr name="ygs" format="integer|float">
+    </attr>
+    <attr name="t8w" format="integer|float">
+    </attr>
+    <attr name="mt9" format="reference">
+    </attr>
+    <attr name="pf8" format="reference">
+    </attr>
+    <attr name="don" format="reference">
+    </attr>
+    <attr name="iuw" format="dimension">
+        <enum name="si" value="0" />
+    </attr>
+    <attr name="k2n" format="reference">
+    </attr>
+    <attr name="uvs" format="reference">
+    </attr>
+    <attr name="y1k" format="reference">
+    </attr>
+    <attr name="l6c" format="reference">
+    </attr>
+    <attr name="udn" format="reference">
+    </attr>
+    <attr name="wqm" format="reference">
+    </attr>
+    <attr name="nuy" format="reference">
+    </attr>
+    <attr name="uw3" format="reference">
+    </attr>
+    <attr name="c9q" format="reference">
+    </attr>
+    <attr name="l5u" format="reference">
+    </attr>
+    <attr name="cac" format="reference">
+    </attr>
+    <attr name="iap" format="reference|color">
+    </attr>
+    <attr name="sk5" format="reference">
+    </attr>
+    <attr name="ila" format="reference">
+    </attr>
+    <attr name="x4w" format="string">
+    </attr>
+    <attr name="jvz" format="reference">
+    </attr>
+    <attr name="jen" format="reference">
+    </attr>
+    <attr name="x4e" format="reference">
+    </attr>
+    <attr name="dls" format="reference">
+    </attr>
+    <attr name="tcv" format="reference">
+    </attr>
+    <attr name="lmo" format="reference">
+    </attr>
+    <attr name="fwl" format="reference">
+    </attr>
+    <attr name="szb" format="reference">
+    </attr>
+    <attr name="jbn" format="reference">
+    </attr>
+    <attr name="uce" format="reference">
+    </attr>
+    <attr name="ddo" format="reference">
+    </attr>
+    <attr name="m34" format="reference">
+    </attr>
+    <attr name="nca" format="reference">
+    </attr>
+    <attr name="dj" format="reference">
+    </attr>
+    <attr name="rzu" format="string">
+    </attr>
+    <attr name="vgd" format="float">
+    </attr>
+    <attr name="ti7" format="string">
+    </attr>
+    <attr name="b69" format="reference">
+    </attr>
+    <attr name="ado" format="reference">
+    </attr>
+    <attr name="lh9" format="boolean">
+    </attr>
+    <attr name="tw8" format="reference">
+    </attr>
+    <attr name="qa4" format="reference">
+    </attr>
+    <attr name="u91" format="boolean">
+    </attr>
+    <attr name="eix" format="float">
+    </attr>
+    <attr name="d41">
+        <flag name="f8b" value="0x2" />
+        <flag name="wvs" value="0x1000" />
+        <flag name="n4g" value="0x8" />
+        <flag name="oil" value="0x10000" />
+        <flag name="et" value="0x1" />
+        <flag name="d65" value="0x4" />
+    </attr>
+    <attr name="z3x" format="reference">
+    </attr>
+    <attr name="tlb">
+        <enum name="f_k" value="3" />
+        <enum name="xws" value="0" />
+        <enum name="vr_" value="2" />
+        <enum name="v5e" value="1" />
+        <enum name="n8r" value="4" />
+    </attr>
+    <attr name="tfy" format="reference">
+    </attr>
+    <attr name="wjt">
+        <enum name="cs5" value="1" />
+        <enum name="y16" value="0" />
+    </attr>
+    <attr name="i8g" format="reference">
+    </attr>
+    <attr name="aeq" format="boolean">
+    </attr>
+    <attr name="je5">
+        <enum name="roa" value="2" />
+        <enum name="n_m" value="1" />
+        <enum name="hvs" value="0" />
+    </attr>
+    <attr name="g1_" format="dimension">
+    </attr>
+    <attr name="cr7" format="dimension">
+    </attr>
+    <attr name="mxn" format="dimension">
+    </attr>
+    <attr name="rsy">
+        <enum name="ggk" value="0" />
+        <enum name="lwb" value="1" />
+    </attr>
+    <attr name="epw" format="string">
+    </attr>
+    <attr name="syy">
+        <enum name="dn2" value="0" />
+        <enum name="spy" value="1" />
+    </attr>
+    <attr name="eki" format="reference">
+    </attr>
+    <attr name="lfr" format="dimension">
+    </attr>
+    <attr name="ix5" format="dimension">
+    </attr>
+    <attr name="tti" format="reference">
+    </attr>
+    <attr name="wbt" format="dimension">
+    </attr>
+    <attr name="jff">
+        <enum name="kqq" value="0" />
+        <enum name="q5h" value="1" />
+    </attr>
+    <attr name="r45">
+        <enum name="i7z" value="4" />
+        <enum name="pz0" value="3" />
+        <enum name="pgr" value="2" />
+        <enum name="x1w" value="1" />
+        <enum name="kqq" value="0" />
+    </attr>
+    <attr name="k8p" format="color">
+    </attr>
+    <attr name="hic" format="dimension">
+    </attr>
+    <attr name="rj9" format="reference">
+    </attr>
+    <attr name="l5n" format="color">
+    </attr>
+    <attr name="pbd" format="dimension">
+    </attr>
+    <attr name="fiz" format="dimension">
+    </attr>
+    <attr name="bar" format="dimension">
+    </attr>
+    <attr name="r_w" format="dimension">
+    </attr>
+    <attr name="jse" format="float">
+    </attr>
+    <attr name="v4s" format="reference|color">
+    </attr>
+    <attr name="tfd" format="reference|color">
+    </attr>
+    <attr name="r0q" format="color">
+    </attr>
+    <attr name="wuh">
+        <enum name="w0q" value="16" />
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="ec9">
+        <enum name="g96" value="8388693" />
+        <enum name="xjt" value="8388691" />
+        <enum name="qtf" value="8388661" />
+        <enum name="pvk" value="8388659" />
+    </attr>
+    <attr name="d7i" format="reference">
+    </attr>
+    <attr name="emz" format="color">
+    </attr>
+    <attr name="yp8" format="boolean">
+    </attr>
+    <attr name="syr" format="integer">
+    </attr>
+    <attr name="wt1" format="boolean">
+    </attr>
+    <attr name="dsu">
+        <enum name="wr1" value="0" />
+        <enum name="wk_" value="1" />
+    </attr>
+    <attr name="ubd" format="dimension">
+    </attr>
+    <attr name="bt2" format="boolean">
+    </attr>
+    <attr name="t0t">
+        <enum name="uv_" value="3" />
+        <enum name="cgd" value="6" />
+        <enum name="su8" value="0" />
+        <enum name="xi8" value="1" />
+        <enum name="nrj" value="5" />
+        <enum name="oym" value="2" />
+    </attr>
+    <attr name="m5c" format="dimension">
+    </attr>
+    <attr name="umi" format="reference|color">
+    </attr>
+    <attr name="bx2" format="boolean">
+    </attr>
+    <attr name="m_w" format="boolean">
+    </attr>
+    <attr name="quz" format="boolean">
+    </attr>
+    <attr name="b1b" format="reference|dimension">
+    </attr>
+    <attr name="ri" format="boolean">
+    </attr>
+    <attr name="fa9" format="reference|float">
+    </attr>
+    <attr name="lss" format="boolean">
+    </attr>
+    <attr name="j0h" format="dimension">
+    </attr>
+    <attr name="cwl" format="dimension">
+        <enum name="ta3" value="-1" />
+    </attr>
+    <attr name="g2s">
+        <flag name="p2w" value="0xffffffff" />
+        <flag name="tl_" value="0x2" />
+        <flag name="sd1" value="0x4" />
+        <flag name="kqq" value="0x0" />
+        <flag name="dh2" value="0x1" />
+        <flag name="g2z" value="0x8" />
+    </attr>
+    <attr name="b5y" format="boolean">
+    </attr>
+    <attr name="crp" format="color">
+    </attr>
+    <attr name="pib" format="color">
+    </attr>
+    <attr name="b_f" format="boolean">
+    </attr>
+    <attr name="nvk" format="reference|color">
+    </attr>
+    <attr name="nbu" format="integer">
+    </attr>
+    <attr name="lp8" format="color">
+    </attr>
+    <attr name="tya" format="float">
+    </attr>
+    <attr name="xzh" format="float">
+    </attr>
+    <attr name="mol" format="color">
+    </attr>
+    <attr name="lox" format="dimension">
+    </attr>
+    <attr name="q9s" format="color">
+    </attr>
+    <attr name="qcm">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="gej" format="boolean">
+    </attr>
+    <attr name="mte" format="color">
+    </attr>
+    <attr name="huj" format="color">
+    </attr>
+    <attr name="pla" format="color">
+    </attr>
+    <attr name="hif" format="reference|color">
+    </attr>
+    <attr name="brb" format="reference|color">
+    </attr>
+    <attr name="lxr" format="integer">
+    </attr>
+    <attr name="yhe" format="color">
+    </attr>
+    <attr name="fno" format="float">
+    </attr>
+    <attr name="tyf" format="float">
+    </attr>
+    <attr name="i59" format="color">
+    </attr>
+    <attr name="vwj" format="dimension">
+    </attr>
+    <attr name="gxz" format="color">
+    </attr>
+    <attr name="d2k">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="v0m" format="boolean">
+    </attr>
+    <attr name="nfe" format="color">
+    </attr>
+    <attr name="kyd" format="color">
+    </attr>
+    <attr name="ybl" format="color">
+    </attr>
+    <attr name="hhv" format="dimension">
+    </attr>
+    <attr name="tnr" format="dimension">
+    </attr>
+    <attr name="rvo" format="dimension">
+    </attr>
+    <attr name="w5v" format="dimension">
+    </attr>
+    <attr name="iji" format="dimension">
+    </attr>
+    <attr name="qi1" format="dimension">
+    </attr>
+    <attr name="r24" format="dimension">
+    </attr>
+    <attr name="nm_" format="dimension">
+    </attr>
+    <attr name="l4m" format="dimension">
+    </attr>
+    <attr name="iyo" format="integer">
+    </attr>
+    <attr name="rg_" format="integer">
+    </attr>
+    <attr name="psz" format="integer">
+    </attr>
+    <attr name="mu9" format="integer">
+    </attr>
+    <attr name="lyb" format="integer">
+    </attr>
+    <attr name="s" format="integer">
+    </attr>
+    <attr name="lxi" format="integer">
+    </attr>
+    <attr name="fee" format="integer">
+    </attr>
+    <attr name="c9m" format="integer">
+    </attr>
+    <attr name="kid" format="integer">
+    </attr>
+    <attr name="v0a" format="integer">
+    </attr>
+    <attr name="ky2" format="integer">
+    </attr>
+    <attr name="k32" format="integer">
+    </attr>
+    <attr name="wn6" format="integer">
+    </attr>
+    <attr name="adn" format="integer">
+    </attr>
+    <attr name="zlg" format="integer">
+    </attr>
+    <attr name="t21" format="reference|color">
+    </attr>
+    <attr name="sow" format="integer">
+    </attr>
+    <attr name="b06" format="color">
+    </attr>
+    <attr name="v24" format="float">
+    </attr>
+    <attr name="ks6" format="float">
+    </attr>
+    <attr name="bzy" format="color">
+    </attr>
+    <attr name="ee8" format="dimension">
+    </attr>
+    <attr name="r9x" format="color">
+    </attr>
+    <attr name="rsw">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="cq6" format="boolean">
+    </attr>
+    <attr name="jws" format="color">
+    </attr>
+    <attr name="egh" format="color">
+    </attr>
+    <attr name="w5o" format="color">
+    </attr>
+    <attr name="r3o" format="color">
+    </attr>
+    <attr name="sdy" format="reference|color">
+    </attr>
+    <attr name="g9o" format="reference|color">
+    </attr>
+    <attr name="uxh" format="integer">
+    </attr>
+    <attr name="yjr" format="color">
+    </attr>
+    <attr name="oop" format="float">
+    </attr>
+    <attr name="cef" format="float">
+    </attr>
+    <attr name="b2e" format="color">
+    </attr>
+    <attr name="ebq" format="dimension">
+    </attr>
+    <attr name="jgs" format="color">
+    </attr>
+    <attr name="ycc">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="yg1" format="boolean">
+    </attr>
+    <attr name="tlt" format="reference|color">
+    </attr>
+    <attr name="ju0" format="color">
+    </attr>
+    <attr name="lm2" format="color">
+    </attr>
+    <attr name="jx_" format="color">
+    </attr>
+    <attr name="lgq" format="reference">
+    </attr>
+    <attr name="vzv" format="reference">
+    </attr>
+    <attr name="cya" format="reference">
+    </attr>
+    <attr name="oam" format="reference">
+    </attr>
+    <attr name="xsl" format="reference">
+    </attr>
+    <attr name="v84" format="reference">
+    </attr>
+    <attr name="yq5" format="reference">
+    </attr>
+    <attr name="yim" format="reference">
+    </attr>
+    <attr name="iqf" format="reference">
+    </attr>
+    <attr name="w3i" format="reference">
+    </attr>
+    <attr name="vt_" format="reference">
+    </attr>
+    <attr name="se1" format="reference">
+    </attr>
+    <attr name="h8x" format="reference">
+    </attr>
+    <attr name="mnc" format="reference">
+    </attr>
+    <attr name="q5_" format="reference">
+    </attr>
+    <attr name="l_r" format="string">
+    </attr>
+    <attr name="d5" format="integer">
+    </attr>
+    <attr name="rne" format="color">
+    </attr>
+    <attr name="vsk" format="float">
+    </attr>
+    <attr name="hxi" format="float">
+    </attr>
+    <attr name="lji" format="color">
+    </attr>
+    <attr name="g7t" format="dimension">
+    </attr>
+    <attr name="sb4" format="color">
+    </attr>
+    <attr name="a3j">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="mbq" format="boolean">
+    </attr>
+    <attr name="hu6" format="string">
+    </attr>
+    <attr name="czc" format="string">
+    </attr>
+    <attr name="gd8" format="string">
+    </attr>
+    <attr name="qob" format="string">
+    </attr>
+    <attr name="vhr" format="string">
+    </attr>
+    <attr name="be4" format="string">
+    </attr>
+    <attr name="adp" format="string">
+    </attr>
+    <attr name="y69" format="string">
+    </attr>
+    <attr name="j4w" format="string">
+    </attr>
+    <attr name="b9o" format="string">
+    </attr>
+    <attr name="eie" format="string">
+    </attr>
+    <attr name="gzs" format="string">
+    </attr>
+    <attr name="th7" format="boolean">
+    </attr>
+    <attr name="t7v" format="dimension">
+    </attr>
+    <attr name="rwd" format="dimension">
+    </attr>
+    <attr name="pn5" format="dimension">
+    </attr>
+    <attr name="uvp" format="dimension">
+    </attr>
+    <attr name="gdk">
+        <enum name="uv_" value="8" />
+        <enum name="su8" value="1" />
+        <enum name="xi8" value="4" />
+        <enum name="oym" value="2" />
+    </attr>
+    <attr name="r2n" format="color">
+    </attr>
+    <attr name="w7h" format="reference|color">
+    </attr>
+    <attr name="vnh" format="integer">
+    </attr>
+    <attr name="rn7" format="color">
+    </attr>
+    <attr name="kq0" format="float">
+    </attr>
+    <attr name="bje" format="float">
+    </attr>
+    <attr name="o17" format="color">
+    </attr>
+    <attr name="md1" format="dimension">
+    </attr>
+    <attr name="cfn" format="color">
+    </attr>
+    <attr name="ppk">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="inb" format="boolean">
+    </attr>
+    <attr name="vxm" format="color">
+    </attr>
+    <attr name="yma" format="color">
+    </attr>
+    <attr name="r2r" format="color">
+    </attr>
+    <attr name="ggp" format="color">
+    </attr>
+    <attr name="sfi" format="boolean">
+    </attr>
+    <attr name="wnv" format="reference|color">
+    </attr>
+    <attr name="see" format="integer">
+    </attr>
+    <attr name="xi" format="color">
+    </attr>
+    <attr name="mys" format="float">
+    </attr>
+    <attr name="esh" format="float">
+    </attr>
+    <attr name="mw9" format="color">
+    </attr>
+    <attr name="ajd" format="dimension">
+    </attr>
+    <attr name="ajr" format="color">
+    </attr>
+    <attr name="qw1">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="bfe" format="boolean">
+    </attr>
+    <attr name="fvl" format="color">
+    </attr>
+    <attr name="n2b" format="color">
+    </attr>
+    <attr name="hoq" format="color">
+    </attr>
+    <attr name="ax9">
+        <enum name="ufm" value="2" />
+        <enum name="ruv" value="1" />
+        <enum name="heo" value="0" />
+        <enum name="gqn" value="3" />
+    </attr>
+    <attr name="ahz" format="float">
+    </attr>
+    <attr name="kef" format="dimension">
+        <enum name="r0y" value="-1" />
+        <enum name="si" value="-2" />
+    </attr>
+    <attr name="jqd" format="dimension">
+        <enum name="r0y" value="-1" />
+        <enum name="si" value="-2" />
+    </attr>
+    <attr name="xxv" format="color">
+    </attr>
+    <attr name="k3o" format="color">
+    </attr>
+    <attr name="gvu" format="dimension">
+    </attr>
+    <attr name="lv4" format="dimension">
+    </attr>
+    <attr name="n0k">
+        <flag name="uv_" value="0x10" />
+        <flag name="su8" value="0x2" />
+        <flag name="xi8" value="0x8" />
+        <flag name="oym" value="0x4" />
+    </attr>
+    <attr name="mp" format="dimension">
+    </attr>
+    <attr name="hqd" format="reference|color">
+    </attr>
+    <attr name="dt5">
+        <enum name="wr1" value="1" />
+        <enum name="wk_" value="0" />
+    </attr>
+    <attr name="lol" format="reference|color">
+    </attr>
+    <attr name="npl" format="color">
+    </attr>
+    <attr name="lng" format="color">
+    </attr>
+    <attr name="fgq" format="reference|color">
+    </attr>
+    <attr name="ju" format="integer">
+    </attr>
+    <attr name="usu" format="color">
+    </attr>
+    <attr name="f9k" format="float">
+    </attr>
+    <attr name="h9m" format="float">
+    </attr>
+    <attr name="nkj" format="color">
+    </attr>
+    <attr name="wbq" format="dimension">
+    </attr>
+    <attr name="gf7" format="color">
+    </attr>
+    <attr name="c52">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="rqk" format="boolean">
+    </attr>
+    <attr name="gmd" format="color">
+    </attr>
+    <attr name="js0" format="color">
+    </attr>
+    <attr name="hvq" format="color">
+    </attr>
+    <attr name="nnf" format="reference|color">
+    </attr>
+    <attr name="y8b" format="reference|color">
+    </attr>
+    <attr name="oxu" format="integer">
+    </attr>
+    <attr name="mpx" format="color">
+    </attr>
+    <attr name="oue" format="float">
+    </attr>
+    <attr name="rs4" format="float">
+    </attr>
+    <attr name="cam" format="color">
+    </attr>
+    <attr name="z7b" format="dimension">
+    </attr>
+    <attr name="ibg" format="color">
+    </attr>
+    <attr name="w0j">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="c9w" format="boolean">
+    </attr>
+    <attr name="u3p" format="color">
+    </attr>
+    <attr name="cty" format="color">
+    </attr>
+    <attr name="l7" format="color">
+    </attr>
+    <attr name="hf3" format="reference|color">
+    </attr>
+    <attr name="vzp" format="integer">
+    </attr>
+    <attr name="e_z" format="color">
+    </attr>
+    <attr name="ahv" format="float">
+    </attr>
+    <attr name="da_" format="float">
+    </attr>
+    <attr name="c0d" format="color">
+    </attr>
+    <attr name="azj" format="dimension">
+    </attr>
+    <attr name="u8r" format="color">
+    </attr>
+    <attr name="udj">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="s4b" format="boolean">
+    </attr>
+    <attr name="bir" format="color">
+    </attr>
+    <attr name="tak" format="color">
+    </attr>
+    <attr name="cyz" format="color">
+    </attr>
+    <attr name="r61" format="color">
+    </attr>
+    <attr name="kax" format="reference|color">
+    </attr>
+    <attr name="ymt" format="reference|color">
+    </attr>
+    <attr name="ke4" format="integer">
+    </attr>
+    <attr name="xjl" format="color">
+    </attr>
+    <attr name="l60" format="float">
+    </attr>
+    <attr name="f7r" format="float">
+    </attr>
+    <attr name="pb6" format="color">
+    </attr>
+    <attr name="tmt" format="dimension">
+    </attr>
+    <attr name="zh8" format="color">
+    </attr>
+    <attr name="ukg">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="mh3" format="boolean">
+    </attr>
+    <attr name="amp" format="reference|color">
+    </attr>
+    <attr name="w9g" format="color">
+    </attr>
+    <attr name="y5e" format="color">
+    </attr>
+    <attr name="r87" format="color">
+    </attr>
+    <attr name="t9x" format="reference|color">
+    </attr>
+    <attr name="y7m" format="integer">
+    </attr>
+    <attr name="gww" format="color">
+    </attr>
+    <attr name="lcj" format="float">
+    </attr>
+    <attr name="vyt" format="float">
+    </attr>
+    <attr name="c_z" format="color">
+    </attr>
+    <attr name="lqu" format="dimension">
+    </attr>
+    <attr name="y9j" format="color">
+    </attr>
+    <attr name="wbh">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="fxc" format="boolean">
+    </attr>
+    <attr name="tte" format="color">
+    </attr>
+    <attr name="smf" format="color">
+    </attr>
+    <attr name="klz" format="color">
+    </attr>
+    <attr name="bg8" format="reference|color">
+    </attr>
+    <attr name="kah" format="integer">
+    </attr>
+    <attr name="t6w" format="color">
+    </attr>
+    <attr name="fif" format="float">
+    </attr>
+    <attr name="y47" format="float">
+    </attr>
+    <attr name="o9z" format="color">
+    </attr>
+    <attr name="rv3" format="dimension">
+    </attr>
+    <attr name="gdd" format="color">
+    </attr>
+    <attr name="lbe">
+        <enum name="ccj" value="0" />
+        <enum name="saf" value="1" />
+        <enum name="fwg" value="2" />
+    </attr>
+    <attr name="vk6" format="boolean">
+    </attr>
+    <attr name="ecj" format="color">
+    </attr>
+    <attr name="ogc" format="color">
+    </attr>
+    <attr name="pm0" format="color">
+    </attr>
+    <attr name="o2x" format="color">
+    </attr>
+    <attr name="lv2" format="reference">
+    </attr>
+    <attr name="z8o" format="dimension">
+    </attr>
+    <attr name="tmn" format="float">
+    </attr>
+    <attr name="rbq" format="dimension">
+    </attr>
+    <attr name="hxx" format="reference">
+    </attr>
+    <attr name="wf" format="reference">
+    </attr>
+    <attr name="pd5" format="reference">
+    </attr>
+    <attr name="yb0" format="reference">
+    </attr>
+    <attr name="epe" format="reference">
+    </attr>
+    <attr name="yuv" format="color">
+    </attr>
+    <attr name="ktx">
+        <enum name="v93" value="1" />
+        <enum name="kqq" value="0" />
+        <enum name="xu4" value="2" />
+    </attr>
+    <attr name="ctx" format="dimension">
+    </attr>
+    <attr name="of" format="dimension">
+    </attr>
+    <attr name="sfm" format="dimension">
+    </attr>
+    <attr name="f39" format="dimension">
+    </attr>
+    <attr name="t3v" format="dimension">
+    </attr>
+    <attr name="o90" format="color">
+    </attr>
+    <attr name="qi0" format="color">
+    </attr>
+    <attr name="et6" format="dimension">
+    </attr>
+    <attr name="r7d" format="dimension">
+    </attr>
+    <attr name="dac" format="float">
+    </attr>
+    <attr name="r7g" format="reference">
+    </attr>
+    <attr name="s1l" format="reference">
+    </attr>
+    <attr name="rlw" format="reference">
+    </attr>
+    <attr name="g50" format="reference">
+    </attr>
+    <attr name="z6m" format="reference">
+    </attr>
+    <attr name="gae" format="reference">
+    </attr>
+    <attr name="wzs">
+        <flag name="uv_" value="0x50" />
+        <flag name="lc0" value="0x10" />
+        <flag name="oym" value="0x30" />
+    </attr>
+    <attr name="o7u" format="dimension">
+    </attr>
+    <attr name="ty0" format="reference">
+    </attr>
+    <attr name="hwi" format="reference">
+        <enum name="syh" value="2" />
+        <enum name="yjx" value="0" />
+        <enum name="hew" value="1" />
+    </attr>
+    <attr name="adz" format="reference">
+    </attr>
+    <attr name="atj" format="reference">
+    </attr>
+    <attr name="yew" format="color">
+    </attr>
+    <attr name="cw_">
+        <enum name="w0q" value="16" />
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="h9_" format="color">
+    </attr>
+    <attr name="zwq" format="dimension">
+    </attr>
+    <attr name="cer" format="dimension">
+    </attr>
+    <attr name="ys2" format="color">
+    </attr>
+    <attr name="jd2" format="dimension">
+    </attr>
+    <attr name="u01" format="boolean">
+    </attr>
+    <attr name="fa2" format="boolean">
+    </attr>
+    <attr name="y67" format="reference">
+    </attr>
+    <attr name="inm" format="float">
+    </attr>
+    <attr name="s7x" format="reference">
+    </attr>
+    <attr name="wfk">
+        <enum name="o87" value="8" />
+        <enum name="qbn" value="4" />
+    </attr>
+    <attr name="chr" format="reference">
+    </attr>
+    <attr name="f1l" format="reference">
+    </attr>
+    <attr name="x6n" format="boolean">
+    </attr>
+    <attr name="we_" format="reference">
+    </attr>
+    <attr name="jjr" format="reference">
+    </attr>
+    <attr name="h71">
+        <enum name="kwh" value="2" />
+        <enum name="f13" value="1" />
+    </attr>
+    <attr name="jaj" format="float">
+    </attr>
+    <attr name="sfy" format="float">
+    </attr>
+    <attr name="g_m" format="boolean">
+    </attr>
+    <attr name="tor" format="reference">
+    </attr>
+    <attr name="pbw" format="reference">
+    </attr>
+    <attr name="vdf" format="reference">
+    </attr>
+    <attr name="sf8" format="reference">
+    </attr>
+    <attr name="nnu" format="boolean">
+    </attr>
+    <attr name="bl4" format="dimension">
+    </attr>
+    <attr name="t6o" format="dimension">
+    </attr>
+    <attr name="sd_" format="color">
+    </attr>
+    <attr name="mr_" format="boolean">
+    </attr>
+    <attr name="qz1" format="reference">
+    </attr>
+    <attr name="qi" format="color">
+    </attr>
+    <attr name="mwa" format="dimension">
+    </attr>
+    <attr name="vi1" format="dimension">
+    </attr>
+    <attr name="sdq" format="reference">
+    </attr>
+    <attr name="j5v" format="reference">
+    </attr>
+    <attr name="v1b" format="boolean">
+    </attr>
+    <attr name="vhn" format="dimension">
+    </attr>
+    <attr name="toj" format="color">
+    </attr>
+    <attr name="mud" format="boolean">
+    </attr>
+    <attr name="mej" format="dimension">
+    </attr>
+    <attr name="pf3" format="dimension">
+    </attr>
+    <attr name="gk_" format="dimension">
+    </attr>
+    <attr name="p8d" format="dimension">
+    </attr>
+    <attr name="j9i" format="dimension">
+    </attr>
+    <attr name="n2_" format="reference">
+    </attr>
+    <attr name="uba" format="dimension">
+    </attr>
+    <attr name="m2d" format="color">
+    </attr>
+    <attr name="z3t" format="dimension">
+    </attr>
+    <attr name="nkp" format="reference">
+    </attr>
+    <attr name="qp6" format="color">
+    </attr>
+    <attr name="f3j" format="color">
+    </attr>
+    <attr name="tat" format="boolean">
+    </attr>
+    <attr name="c5" format="dimension">
+    </attr>
+    <attr name="vp" format="reference">
+    </attr>
+    <attr name="czj" format="string">
+    </attr>
+    <attr name="bba" format="float">
+    </attr>
+    <attr name="ot1" format="dimension">
+    </attr>
+    <attr name="e2a" format="string">
+    </attr>
+    <attr name="cdd" format="reference">
+    </attr>
+    <attr name="tg8" format="reference">
+    </attr>
+    <attr name="hgc">
+        <flag name="pgr" value="0x100" />
+        <flag name="x1w" value="0x1000" />
+        <flag name="u76" value="0x11" />
+        <flag name="dgv" value="0x1" />
+        <flag name="qi1" value="0x10" />
+    </attr>
+    <attr name="zvz" format="color">
+    </attr>
+    <attr name="nsx" format="color">
+    </attr>
+    <attr name="fq4" format="reference">
+    </attr>
+    <attr name="jix" format="color">
+    </attr>
+    <attr name="ggo" format="reference">
+    </attr>
+    <attr name="oum" format="boolean">
+    </attr>
+    <attr name="cl8" format="dimension">
+    </attr>
+    <attr name="iuc" format="dimension">
+    </attr>
+    <attr name="nf7" format="dimension">
+    </attr>
+    <attr name="cfa" format="color">
+    </attr>
+    <attr name="ri_" format="boolean">
+    </attr>
+    <attr name="ykd" format="reference">
+    </attr>
+    <attr name="av9">
+        <enum name="nam" value="2" />
+        <enum name="ruv" value="0" />
+        <enum name="iyj" value="1" />
+    </attr>
+    <attr name="eah" format="string">
+    </attr>
+    <attr name="l8m" format="reference">
+    </attr>
+    <attr name="vn3" format="dimension">
+    </attr>
+    <attr name="cs0">
+        <flag name="uv_" value="0x50" />
+        <flag name="i88" value="0x11" />
+        <flag name="jll" value="0x1" />
+        <flag name="lc0" value="0x10" />
+        <flag name="cgd" value="0x800005" />
+        <flag name="y0x" value="0x70" />
+        <flag name="su8" value="0x3" />
+        <flag name="xi8" value="0x5" />
+        <flag name="nrj" value="0x800003" />
+        <flag name="oym" value="0x30" />
+    </attr>
+    <attr name="wc1" format="reference">
+    </attr>
+    <attr name="f5n" format="reference">
+    </attr>
+    <attr name="arn" format="color">
+    </attr>
+    <attr name="cgi" format="color">
+    </attr>
+    <attr name="g75" format="color">
+    </attr>
+    <attr name="v1n" format="color">
+    </attr>
+    <attr name="orj" format="color">
+    </attr>
+    <attr name="pkk" format="color">
+    </attr>
+    <attr name="ohz" format="color">
+    </attr>
+    <attr name="djz" format="reference|color">
+    </attr>
+    <attr name="bvz" format="reference|string|integer|boolean|color|float|dimension|fraction">
+    </attr>
+    <attr name="eiv" format="color">
+    </attr>
+    <attr name="h25" format="color">
+    </attr>
+    <attr name="b94" format="color">
+    </attr>
+    <attr name="oh2" format="color">
+    </attr>
+    <attr name="sm4" format="color">
+    </attr>
+    <attr name="s3u" format="color">
+    </attr>
+    <attr name="p_z" format="color">
+    </attr>
+    <attr name="tm2" format="color">
+    </attr>
+    <attr name="av5" format="color">
+    </attr>
+    <attr name="o_7" format="reference">
+        <enum name="ta3" value="2" />
+        <enum name="y0b" value="0" />
+        <enum name="z8e" value="1" />
+    </attr>
+    <attr name="qsl" format="color">
+    </attr>
+    <attr name="mbn" format="color">
+    </attr>
+    <attr name="ezh" format="color">
+    </attr>
+    <attr name="jql" format="color">
+    </attr>
+    <attr name="nw1" format="reference">
+    </attr>
+    <attr name="q54">
+        <enum name="su8" value="2" />
+        <enum name="kqq" value="0" />
+        <enum name="xi8" value="1" />
+        <enum name="q18" value="4" />
+        <enum name="okh" value="3" />
+    </attr>
+    <attr name="dfe" format="reference">
+    </attr>
+    <attr name="ypx" format="reference">
+    </attr>
+    <attr name="t47" format="reference">
+    </attr>
+    <attr name="tgq" format="string">
+    </attr>
+    <attr name="f6r" format="string">
+    </attr>
+    <attr name="qwb" format="reference">
+    </attr>
+    <attr name="nr8" format="reference">
+    </attr>
+    <attr name="zll" format="string">
+    </attr>
+    <attr name="s2e" format="dimension">
+    </attr>
+    <attr name="s3x" format="dimension">
+    </attr>
+    <attr name="gua" format="dimension">
+    </attr>
+    <attr name="p0s" format="dimension">
+    </attr>
+    <attr name="ztm" format="dimension">
+    </attr>
+    <attr name="pl9" format="dimension">
+    </attr>
+    <attr name="fnf" format="dimension">
+    </attr>
+    <attr name="e83" format="dimension">
+    </attr>
+    <attr name="hga" format="dimension">
+    </attr>
+    <attr name="dus" format="dimension">
+    </attr>
+    <attr name="pg7" format="dimension">
+    </attr>
+    <attr name="rsz" format="dimension">
+    </attr>
+    <attr name="qft" format="dimension">
+    </attr>
+    <attr name="jti" format="color">
+    </attr>
+    <attr name="a3x" format="float">
+    </attr>
+    <attr name="m_o" format="reference">
+    </attr>
+    <attr name="kkq" format="reference">
+    </attr>
+    <attr name="ejy">
+        <enum name="zp6" value="1" />
+        <enum name="ho5" value="0" />
+    </attr>
+    <attr name="ox4">
+        <enum name="zp6" value="1" />
+        <enum name="ho5" value="0" />
+    </attr>
+    <attr name="rlf">
+        <enum name="zp6" value="1" />
+        <enum name="ho5" value="0" />
+    </attr>
+    <attr name="hwa">
+        <enum name="zp6" value="1" />
+        <enum name="ho5" value="0" />
+    </attr>
+    <attr name="l5v">
+        <enum name="zp6" value="1" />
+        <enum name="ho5" value="0" />
+    </attr>
+    <attr name="zl6" format="dimension">
+    </attr>
+    <attr name="e55" format="dimension|fraction">
+    </attr>
+    <attr name="gpd" format="dimension|fraction">
+    </attr>
+    <attr name="r6b" format="dimension|fraction">
+    </attr>
+    <attr name="mfv" format="dimension|fraction">
+    </attr>
+    <attr name="gr7" format="dimension|fraction">
+    </attr>
+    <attr name="dkq" format="integer">
+    </attr>
+    <attr name="trb" format="boolean">
+    </attr>
+    <attr name="l9o" format="integer">
+    </attr>
+    <attr name="x7s" format="reference">
+    </attr>
+    <attr name="dw4" format="reference">
+    </attr>
+    <attr name="rd6" format="reference">
+    </attr>
+    <attr name="b8" format="reference">
+    </attr>
+    <attr name="io_" format="float">
+    </attr>
+    <attr name="l65" format="integer">
+    </attr>
+    <attr name="eo4" format="reference">
+    </attr>
+    <attr name="xez">
+        <enum name="ccj" value="1" />
+        <enum name="rio" value="0" />
+    </attr>
+    <attr name="y0d" format="boolean">
+    </attr>
+    <attr name="l_7" format="color">
+    </attr>
+    <attr name="f7u" format="color">
+    </attr>
+    <attr name="dgq" format="dimension">
+    </attr>
+    <attr name="auy" format="float">
+    </attr>
+    <attr name="a_5" format="integer">
+    </attr>
+    <attr name="h99" format="reference">
+    </attr>
+    <attr name="xuv" format="dimension">
+    </attr>
+    <attr name="mqi" format="reference">
+    </attr>
+    <attr name="x5m" format="string">
+    </attr>
+    <attr name="jrh" format="reference|color">
+    </attr>
+    <attr name="o8u" format="reference|color">
+    </attr>
+    <attr name="w21" format="reference">
+    </attr>
+    <attr name="ub1" format="reference">
+    </attr>
+    <attr name="ghu" format="reference">
+    </attr>
+    <attr name="u3h" format="reference">
+    </attr>
+    <attr name="t4g" format="integer">
+    </attr>
+    <attr name="p0z" format="string">
+    </attr>
+    <attr name="kja" format="reference">
+    </attr>
+    <attr name="mof" format="float">
+    </attr>
+    <attr name="zdl" format="float">
+    </attr>
+    <attr name="j8w" format="reference">
+    </attr>
+    <attr name="l_f" format="dimension">
+    </attr>
+    <attr name="emr" format="dimension">
+    </attr>
+    <attr name="r6o" format="reference">
+    </attr>
+    <attr name="seo" format="integer">
+    </attr>
+    <attr name="ml4">
+        <flag name="xhl" value="0x20" />
+        <flag name="kou" value="0x4" />
+        <flag name="kqq" value="0x0" />
+        <flag name="v80" value="0x10" />
+        <flag name="ova" value="0x2" />
+        <flag name="npr" value="0x8" />
+        <flag name="axl" value="0x1" />
+    </attr>
+    <attr name="g9m" format="reference">
+    </attr>
+    <attr name="x_k" format="reference">
+    </attr>
+    <attr name="flm" format="dimension">
+    </attr>
+    <attr name="qwh" format="reference">
+    </attr>
+    <attr name="kh1" format="float">
+    </attr>
+    <attr name="ggs" format="integer">
+    </attr>
+    <attr name="vwf">
+        <enum name="jx7" value="7" />
+        <enum name="x05" value="6" />
+        <enum name="eat" value="1" />
+        <enum name="y6j" value="5" />
+        <enum name="l3b" value="2" />
+        <enum name="nhm" value="3" />
+        <enum name="ip1" value="4" />
+        <enum name="yap" value="0" />
+    </attr>
+    <attr name="s0o" format="float">
+    </attr>
+    <attr name="tt4" format="float">
+    </attr>
+    <attr name="qwn">
+        <enum name="zqa" value="4" />
+        <enum name="xb3" value="3" />
+        <enum name="kqq" value="0" />
+        <enum name="afu" value="1" />
+        <enum name="d_s" value="2" />
+        <enum name="hwk" value="5" />
+    </attr>
+    <attr name="joe" format="reference">
+    </attr>
+    <attr name="q_b" format="reference">
+    </attr>
+    <attr name="h7" format="reference">
+    </attr>
+    <attr name="tqz" format="float">
+    </attr>
+    <attr name="fd3" format="reference">
+    </attr>
+    <attr name="hnm" format="dimension">
+    </attr>
+    <attr name="o4h" format="reference">
+    </attr>
+    <attr name="icg" format="color">
+    </attr>
+    <attr name="zzn">
+        <enum name="w0q" value="16" />
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="gnr" format="reference">
+    </attr>
+    <attr name="vhv" format="reference">
+    </attr>
+    <attr name="gv1" format="reference">
+    </attr>
+    <attr name="uur" format="dimension">
+    </attr>
+    <attr name="tqx" format="integer">
+    </attr>
+    <attr name="fdf" format="float">
+    </attr>
+    <attr name="obt" format="reference">
+    </attr>
+    <attr name="eex" format="reference|color">
+    </attr>
+    <attr name="m3q" format="reference">
+    </attr>
+    <attr name="yan" format="dimension">
+    </attr>
+    <attr name="tp4" format="color">
+    </attr>
+    <attr name="iif" format="boolean">
+    </attr>
+    <attr name="xbm" format="boolean">
+    </attr>
+    <attr name="s8" format="boolean">
+    </attr>
+    <attr name="x00" format="string">
+    </attr>
+    <attr name="l7h" format="reference">
+    </attr>
+    <attr name="vug">
+        <enum name="ghk" value="2" />
+        <enum name="uoi" value="-1" />
+        <enum name="nu3" value="3" />
+        <enum name="kqq" value="0" />
+        <enum name="ofm" value="1" />
+    </attr>
+    <attr name="ajw" format="color">
+    </attr>
+    <attr name="ifu">
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="vzg" format="boolean">
+    </attr>
+    <attr name="nbc" format="boolean">
+    </attr>
+    <attr name="z30" format="boolean">
+    </attr>
+    <attr name="qe1" format="string">
+    </attr>
+    <attr name="iu3" format="boolean">
+    </attr>
+    <attr name="q3p" format="reference">
+    </attr>
+    <attr name="tqf" format="reference">
+    </attr>
+    <attr name="rec">
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="yd3" format="reference">
+    </attr>
+    <attr name="r51" format="color">
+    </attr>
+    <attr name="msx" format="reference">
+    </attr>
+    <attr name="b0l" format="boolean">
+    </attr>
+    <attr name="ffi" format="boolean">
+    </attr>
+    <attr name="k03">
+        <flag name="uv_" value="0x50" />
+        <flag name="i88" value="0x11" />
+        <flag name="jll" value="0x1" />
+        <flag name="lc0" value="0x10" />
+        <flag name="cgd" value="0x800005" />
+        <flag name="y0x" value="0x70" />
+        <flag name="su8" value="0x3" />
+        <flag name="xi8" value="0x5" />
+        <flag name="nrj" value="0x800003" />
+        <flag name="oym" value="0x30" />
+    </attr>
+    <attr name="sg9" format="dimension">
+    </attr>
+    <attr name="b2u" format="dimension">
+    </attr>
+    <attr name="jt8" format="dimension">
+    </attr>
+    <attr name="lfu" format="dimension">
+    </attr>
+    <attr name="eox" format="dimension">
+    </attr>
+    <attr name="msi" format="reference">
+    </attr>
+    <attr name="wki" format="reference">
+    </attr>
+    <attr name="nud" format="reference">
+    </attr>
+    <attr name="fzn" format="boolean">
+    </attr>
+    <attr name="tx7">
+        <enum name="i88" value="0" />
+        <enum name="cgd" value="1" />
+    </attr>
+    <attr name="bmw">
+        <enum name="fgq" value="0" />
+        <enum name="y16" value="1" />
+    </attr>
+    <attr name="r7e" format="dimension">
+    </attr>
+    <attr name="ceh" format="dimension">
+    </attr>
+    <attr name="dvd" format="dimension">
+    </attr>
+    <attr name="p5d" format="dimension">
+    </attr>
+    <attr name="jok">
+        <enum name="ta3" value="-1" />
+        <enum name="qsn" value="1" />
+        <enum name="njp" value="0" />
+    </attr>
+    <attr name="q10" format="boolean">
+    </attr>
+    <attr name="gm" format="reference">
+    </attr>
+    <attr name="vpq" format="reference">
+    </attr>
+    <attr name="mjo" format="reference">
+    </attr>
+    <attr name="vuk" format="reference">
+    </attr>
+    <attr name="fit" format="dimension">
+    </attr>
+    <attr name="z3h" format="reference">
+    </attr>
+    <attr name="qtx" format="float">
+    </attr>
+    <attr name="c9p">
+        <enum name="izq" value="2" />
+        <enum name="q9o" value="0" />
+        <enum name="n27" value="1" />
+    </attr>
+    <attr name="wuq" format="float">
+    </attr>
+    <attr name="kl2">
+        <enum name="izq" value="2" />
+        <enum name="q9o" value="0" />
+        <enum name="n27" value="1" />
+    </attr>
+    <attr name="pa6">
+        <enum name="i88" value="2" />
+        <enum name="cgd" value="1" />
+        <enum name="nrj" value="0" />
+    </attr>
+    <attr name="u5s" format="float">
+    </attr>
+    <attr name="jux" format="dimension">
+    </attr>
+    <attr name="dfw">
+        <enum name="izq" value="2" />
+        <enum name="q9o" value="0" />
+        <enum name="n27" value="1" />
+    </attr>
+    <attr name="wfv" format="float">
+    </attr>
+    <attr name="i3_">
+        <enum name="izq" value="2" />
+        <enum name="q9o" value="0" />
+        <enum name="n27" value="1" />
+    </attr>
+    <attr name="k0t" format="float">
+    </attr>
+    <attr name="sgn">
+        <enum name="izq" value="2" />
+        <enum name="q9o" value="0" />
+        <enum name="n27" value="1" />
+    </attr>
+    <attr name="dxm" format="integer">
+    </attr>
+    <attr name="m73" format="dimension">
+    </attr>
+    <attr name="ls_">
+        <enum name="y5z" value="3" />
+        <enum name="uv_" value="1" />
+        <enum name="i88" value="2" />
+        <enum name="oym" value="0" />
+    </attr>
+    <attr name="kz4" format="float">
+    </attr>
+    <attr name="x3w" format="dimension">
+    </attr>
+    <attr name="cjn">
+        <enum name="izq" value="2" />
+        <enum name="q9o" value="0" />
+        <enum name="n27" value="1" />
+    </attr>
+    <attr name="np5">
+        <enum name="ahl" value="2" />
+        <enum name="gid" value="1" />
+        <enum name="kqq" value="0" />
+    </attr>
+    <attr name="rle" format="integer">
+    </attr>
+    <attr name="zfh" format="integer">
+    </attr>
+    <attr name="zgs" format="integer">
+    </attr>
+    <attr name="v8c" format="reference">
+    </attr>
+    <attr name="fdo" format="string">
+    </attr>
+    <attr name="jbr" format="string">
+    </attr>
+    <attr name="g67" format="reference">
+    </attr>
+    <attr name="dms">
+        <enum name="yyy" value="1" />
+        <enum name="ads" value="0" />
+    </attr>
+    <attr name="p47" format="integer">
+        <enum name="fl0" value="-1" />
+    </attr>
+    <attr name="qr0" format="string">
+    </attr>
+    <attr name="bkx" format="string">
+    </attr>
+    <attr name="wbi" format="string">
+    </attr>
+    <attr name="fk9">
+        <enum name="f32" value="1" />
+        <enum name="njp" value="0" />
+    </attr>
+    <attr name="l5o" format="string">
+    </attr>
+    <attr name="vyp" format="integer">
+    </attr>
+    <attr name="lky" format="boolean">
+    </attr>
+    <attr name="x3h" format="boolean">
+    </attr>
+    <attr name="len" format="integer">
+    </attr>
+    <attr name="nhn" format="dimension">
+    </attr>
+    <attr name="cod" format="boolean">
+    </attr>
+    <attr name="lh8" format="reference">
+    </attr>
+    <attr name="zdp" format="color">
+    </attr>
+    <attr name="yvv" format="dimension">
+    </attr>
+    <attr name="uc_" format="reference">
+    </attr>
+    <attr name="dti" format="dimension">
+    </attr>
+    <attr name="u08" format="string">
+    </attr>
+    <attr name="no7" format="boolean">
+    </attr>
+    <attr name="jsw" format="reference">
+    </attr>
+    <attr name="mdg" format="color">
+    </attr>
+    <attr name="tkq">
+        <enum name="yvl" value="2" />
+        <enum name="kqq" value="0" />
+        <enum name="kng" value="1" />
+    </attr>
+    <attr name="e9b" format="reference">
+    </attr>
+    <attr name="si6" format="boolean">
+    </attr>
+    <attr name="c1a" format="boolean">
+    </attr>
+    <attr name="b4s" format="boolean">
+    </attr>
+    <attr name="dbe" format="boolean">
+    </attr>
+    <attr name="bia" format="reference">
+    </attr>
+    <attr name="t1l" format="color">
+    </attr>
+    <attr name="u0s" format="reference">
+    </attr>
+    <attr name="ulo" format="reference">
+    </attr>
+    <attr name="p_d" format="dimension">
+    </attr>
+    <attr name="de3" format="dimension">
+    </attr>
+    <attr name="m5f" format="reference">
+    </attr>
+    <attr name="gry" format="dimension">
+    </attr>
+    <attr name="y0w">
+        <flag name="cgd" value="0x3" />
+        <flag name="nrj" value="0x1" />
+        <flag name="b8d" value="0x4" />
+        <flag name="usz" value="0x2" />
+        <flag name="ef" value="0x20" />
+        <flag name="oym" value="0x10" />
+    </attr>
+    <attr name="eaw" format="dimension">
+    </attr>
+    <attr name="ud8" format="dimension">
+    </attr>
+    <attr name="ycq" format="dimension">
+    </attr>
+    <attr name="zya" format="color">
+    </attr>
+    <attr name="lz_">
+        <enum name="w0q" value="16" />
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="jwc" format="boolean">
+    </attr>
+    <attr name="mmi" format="reference">
+    </attr>
+    <attr name="zmg" format="reference">
+    </attr>
+    <attr name="p6q" format="float">
+    </attr>
+    <attr name="pqr">
+        <enum name="g6b" value="2" />
+        <enum name="sel" value="1" />
+        <enum name="kqq" value="0" />
+    </attr>
+    <attr name="fxt" format="reference">
+    </attr>
+    <attr name="km2" format="float">
+    </attr>
+    <attr name="hpj" format="float">
+    </attr>
+    <attr name="hl5" format="float">
+    </attr>
+    <attr name="im6" format="float">
+    </attr>
+    <attr name="v8h">
+        <enum name="wt3" value="1" />
+        <enum name="hva" value="0" />
+    </attr>
+    <attr name="ed_" format="color">
+    </attr>
+    <attr name="a29">
+        <enum name="j15" value="0" />
+        <enum name="g38" value="1" />
+    </attr>
+    <attr name="n_f" format="reference">
+    </attr>
+    <attr name="qhp" format="reference|color">
+    </attr>
+    <attr name="hct">
+        <enum name="vr_" value="0" />
+        <enum name="ywd" value="1" />
+    </attr>
+    <attr name="xmw">
+        <enum name="a1m" value="3" />
+        <enum name="nn9" value="0" />
+        <enum name="kgr" value="1" />
+        <enum name="i8d" value="2" />
+    </attr>
+    <attr name="j__" format="reference|dimension">
+    </attr>
+    <attr name="koj" format="dimension">
+    </attr>
+    <attr name="vbt" format="reference|dimension">
+    </attr>
+    <attr name="j5l" format="reference|color">
+    </attr>
+    <attr name="y9b" format="reference|dimension">
+    </attr>
+    <attr name="p21" format="reference|dimension">
+    </attr>
+    <attr name="yqw" format="reference|dimension">
+    </attr>
+    <attr name="kte" format="dimension">
+    </attr>
+    <attr name="apr" format="reference|dimension">
+    </attr>
+    <attr name="i7q" format="reference|dimension">
+    </attr>
+    <attr name="hq3" format="boolean">
+    </attr>
+    <attr name="a_e" format="dimension">
+    </attr>
+    <attr name="dle" format="dimension">
+    </attr>
+    <attr name="blx">
+        <enum name="kck" value="0" />
+        <enum name="i7d" value="2" />
+        <enum name="q9o" value="1" />
+    </attr>
+    <attr name="qn" format="reference|color">
+    </attr>
+    <attr name="yr_">
+        <enum name="eip" value="0" />
+        <enum name="heo" value="1" />
+    </attr>
+    <attr name="h_g" format="reference|color">
+    </attr>
+    <attr name="alf" format="dimension">
+    </attr>
+    <attr name="cb3" format="string">
+    </attr>
+    <attr name="unf" format="reference|color">
+    </attr>
+    <attr name="cgy" format="boolean">
+    </attr>
+    <attr name="pi7" format="boolean">
+    </attr>
+    <attr name="t02" format="boolean">
+    </attr>
+    <attr name="iab" format="boolean">
+    </attr>
+    <attr name="zvq" format="boolean">
+    </attr>
+    <attr name="mrp" format="reference">
+    </attr>
+    <attr name="eis" format="color">
+    </attr>
+    <attr name="apy" format="dimension">
+    </attr>
+    <attr name="me0" format="boolean">
+    </attr>
+    <attr name="ri2" format="dimension">
+    </attr>
+    <attr name="kjl" format="dimension">
+    </attr>
+    <attr name="ohf" format="color">
+    </attr>
+    <attr name="aqt" format="integer">
+        <item name="?0x1000001" value="1" />
+    </attr>
+    <attr name="i8n" format="integer">
+    </attr>
+    <attr name="ivf" format="dimension">
+    </attr>
+    <attr name="csa" format="color">
+    </attr>
+    <attr name="kcl" format="reference">
+    </attr>
+    <attr name="da2" format="reference">
+    </attr>
+    <attr name="x10" format="color">
+    </attr>
+    <attr name="j50" format="dimension">
+    </attr>
+    <attr name="dvj" format="dimension">
+    </attr>
+    <attr name="mj6" format="dimension">
+    </attr>
+    <attr name="xqn" format="dimension">
+    </attr>
+    <attr name="teq" format="dimension">
+    </attr>
+    <attr name="kvv" format="color">
+    </attr>
+    <attr name="ovd" format="dimension">
+    </attr>
+    <attr name="p9e" format="reference">
+    </attr>
+    <attr name="zle" format="reference">
+    </attr>
+    <attr name="cld" format="reference">
+    </attr>
+    <attr name="a0" format="color">
+    </attr>
+    <attr name="hio" format="boolean">
+    </attr>
+    <attr name="gz4">
+        <enum name="xb3" value="0" />
+        <enum name="h3g" value="2" />
+        <enum name="d_s" value="1" />
+    </attr>
+    <attr name="iut" format="reference">
+    </attr>
+    <attr name="tah" format="reference">
+    </attr>
+    <attr name="cym">
+        <enum name="c25" value="0" />
+        <enum name="o87" value="2" />
+        <enum name="icy" value="1" />
+    </attr>
+    <attr name="djo" format="reference">
+    </attr>
+    <attr name="iyw">
+        <enum name="ta3" value="-1" />
+        <enum name="t9f" value="1" />
+        <enum name="vfz" value="0" />
+        <enum name="c2g" value="2" />
+    </attr>
+    <attr name="urx" format="dimension">
+    </attr>
+    <attr name="pq3" format="reference">
+    </attr>
+    <attr name="off" format="reference">
+    </attr>
+    <attr name="mtg">
+        <enum name="koc" value="1" />
+        <enum name="z1q" value="0" />
+    </attr>
+    <attr name="rgi" format="string">
+    </attr>
+    <attr name="kht" format="reference">
+    </attr>
+    <attr name="hp0">
+        <flag name="uv_" value="0x50" />
+        <flag name="i88" value="0x11" />
+        <flag name="jll" value="0x1" />
+        <flag name="lc0" value="0x10" />
+        <flag name="p9f" value="0x8" />
+        <flag name="a9e" value="0x80" />
+        <flag name="cgd" value="0x800005" />
+        <flag name="lwb" value="0x77" />
+        <flag name="bmc" value="0x7" />
+        <flag name="y0x" value="0x70" />
+        <flag name="su8" value="0x3" />
+        <flag name="xi8" value="0x5" />
+        <flag name="nrj" value="0x800003" />
+        <flag name="oym" value="0x30" />
+    </attr>
+    <attr name="p05" format="string">
+    </attr>
+    <attr name="vq5">
+        <enum name="kqq" value="0" />
+        <enum name="r32" value="2" />
+        <enum name="anr" value="1" />
+    </attr>
+    <attr name="p0u" format="float">
+    </attr>
+    <attr name="jah" format="boolean">
+    </attr>
+    <attr name="r__" format="boolean">
+    </attr>
+    <attr name="k2k" format="integer">
+    </attr>
+    <attr name="kk_" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="qua" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="zh1" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="s_r" format="integer">
+    </attr>
+    <attr name="ixr" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="b5r" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="p7v" format="reference">
+    </attr>
+    <attr name="a44" format="float">
+    </attr>
+    <attr name="xu_" format="dimension">
+    </attr>
+    <attr name="nc" format="string">
+    </attr>
+    <attr name="cvv" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="dte" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="oyx" format="dimension">
+    </attr>
+    <attr name="ew1" format="dimension">
+    </attr>
+    <attr name="i0p" format="float">
+    </attr>
+    <attr name="bl6" format="string|dimension">
+        <enum name="olr" value="-3" />
+        <enum name="r0y" value="-1" />
+        <enum name="si" value="-2" />
+        <enum name="wwl" value="-4" />
+    </attr>
+    <attr name="ufl">
+        <enum name="g44" value="2" />
+        <enum name="q9o" value="0" />
+        <enum name="gp3" value="1" />
+    </attr>
+    <attr name="i_6" format="dimension">
+        <enum name="gp3" value="-2" />
+    </attr>
+    <attr name="k8h" format="dimension">
+        <enum name="gp3" value="-2" />
+    </attr>
+    <attr name="nk5" format="float">
+    </attr>
+    <attr name="q40" format="float">
+    </attr>
+    <attr name="x28">
+        <enum name="izq" value="2" />
+        <enum name="q9o" value="0" />
+        <enum name="n27" value="1" />
+    </attr>
+    <attr name="gtg" format="float">
+    </attr>
+    <attr name="pka" format="integer">
+    </attr>
+    <attr name="c84" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="ecn" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="awi" format="integer">
+    </attr>
+    <attr name="wkr" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="d3f" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="qew" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="twj" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="wt3" format="string">
+    </attr>
+    <attr name="d0s" format="integer">
+    </attr>
+    <attr name="j8f" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="r52" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="tt1" format="float">
+    </attr>
+    <attr name="uhp">
+        <enum name="izq" value="2" />
+        <enum name="q9o" value="0" />
+        <enum name="n27" value="1" />
+    </attr>
+    <attr name="x2k" format="float">
+    </attr>
+    <attr name="d2b" format="string|dimension">
+        <enum name="olr" value="-3" />
+        <enum name="r0y" value="-1" />
+        <enum name="si" value="-2" />
+        <enum name="wwl" value="-4" />
+    </attr>
+    <attr name="di">
+        <enum name="g44" value="2" />
+        <enum name="q9o" value="0" />
+        <enum name="gp3" value="1" />
+    </attr>
+    <attr name="qcl" format="dimension">
+        <enum name="gp3" value="-2" />
+    </attr>
+    <attr name="q6r" format="dimension">
+        <enum name="gp3" value="-2" />
+    </attr>
+    <attr name="tmm" format="float">
+    </attr>
+    <attr name="ctu">
+        <flag name="p2w" value="0x77" />
+        <flag name="uv_" value="0x50" />
+        <flag name="cgd" value="0x800005" />
+        <flag name="su8" value="0x3" />
+        <flag name="kqq" value="0x0" />
+        <flag name="xi8" value="0x5" />
+        <flag name="nrj" value="0x800003" />
+        <flag name="oym" value="0x30" />
+    </attr>
+    <attr name="uvf" format="dimension">
+    </attr>
+    <attr name="x7z" format="dimension">
+    </attr>
+    <attr name="dag" format="dimension">
+    </attr>
+    <attr name="xno" format="dimension">
+    </attr>
+    <attr name="vz8" format="dimension">
+    </attr>
+    <attr name="sfq" format="dimension">
+    </attr>
+    <attr name="aq4" format="dimension">
+    </attr>
+    <attr name="ahp" format="dimension">
+    </attr>
+    <attr name="hcx" format="dimension">
+    </attr>
+    <attr name="uol">
+        <enum name="uv_" value="80" />
+        <enum name="cgd" value="8388613" />
+        <enum name="su8" value="3" />
+        <enum name="kqq" value="0" />
+        <enum name="xi8" value="5" />
+        <enum name="nrj" value="8388611" />
+        <enum name="oym" value="48" />
+    </attr>
+    <attr name="u5a" format="integer">
+    </attr>
+    <attr name="bbm" format="dimension">
+    </attr>
+    <attr name="bx9">
+        <flag name="p5x" value="0x2" />
+        <flag name="v2g" value="0x100" />
+        <flag name="ocf" value="0x4" />
+        <flag name="kr1" value="0x200" />
+        <flag name="kfn" value="0x8" />
+        <flag name="q0v" value="0x1" />
+        <flag name="fxu" value="0x40" />
+        <flag name="fnu" value="0x80" />
+        <flag name="a6" value="0x400" />
+        <flag name="v1k" value="0x20" />
+        <flag name="fez" value="0x0" />
+        <flag name="kqq" value="0x0" />
+        <flag name="moc" value="0x10" />
+        <flag name="yjx" value="0x101" />
+    </attr>
+    <attr name="iw_">
+        <flag name="uul" value="0x4" />
+        <flag name="z8p" value="0x8" />
+        <flag name="sop" value="0x2" />
+        <flag name="i62" value="0x0" />
+        <flag name="g48" value="0x1" />
+        <flag name="k17" value="0x10" />
+        <flag name="vfb" value="0x20" />
+    </attr>
+    <attr name="erf" format="reference">
+    </attr>
+    <attr name="fxs" format="color">
+    </attr>
+    <attr name="mf9">
+        <enum name="iwt" value="2" />
+        <enum name="auv" value="3" />
+        <enum name="gq7" value="4" />
+        <enum name="wz9" value="1" />
+        <enum name="ses" value="0" />
+    </attr>
+    <attr name="fnw">
+        <enum name="pel" value="1" />
+        <enum name="ymw" value="0" />
+        <enum name="nf2" value="3" />
+        <enum name="a3l" value="2" />
+    </attr>
+    <attr name="n10" format="boolean">
+    </attr>
+    <attr name="g3a" format="reference">
+    </attr>
+    <attr name="pyh" format="reference">
+    </attr>
+    <attr name="v5k" format="color">
+    </attr>
+    <attr name="vi2" format="dimension">
+    </attr>
+    <attr name="zso" format="dimension">
+    </attr>
+    <attr name="qfk" format="reference|dimension">
+    </attr>
+    <attr name="eui" format="reference">
+    </attr>
+    <attr name="x2b" format="reference">
+    </attr>
+    <attr name="peb" format="reference">
+    </attr>
+    <attr name="dtd" format="reference">
+    </attr>
+    <attr name="ls4" format="reference">
+    </attr>
+    <attr name="yst" format="reference">
+    </attr>
+    <attr name="tvr" format="reference">
+    </attr>
+    <attr name="c_e" format="reference">
+    </attr>
+    <attr name="hzj" format="reference">
+    </attr>
+    <attr name="d2f" format="dimension">
+    </attr>
+    <attr name="nda" format="dimension">
+    </attr>
+    <attr name="xg4" format="dimension">
+    </attr>
+    <attr name="pgl" format="dimension">
+    </attr>
+    <attr name="cw" format="dimension">
+    </attr>
+    <attr name="xhw" format="dimension">
+    </attr>
+    <attr name="ryi" format="dimension">
+    </attr>
+    <attr name="hz2" format="color">
+    </attr>
+    <attr name="cgs" format="reference">
+    </attr>
+    <attr name="hyu" format="string">
+    </attr>
+    <attr name="gyq" format="dimension">
+    </attr>
+    <attr name="yc8" format="reference">
+    </attr>
+    <attr name="qtr" format="reference">
+    </attr>
+    <attr name="u19" format="reference">
+    </attr>
+    <attr name="qk9" format="reference">
+    </attr>
+    <attr name="jkw" format="reference">
+    </attr>
+    <attr name="h_l" format="reference">
+    </attr>
+    <attr name="p86" format="reference">
+    </attr>
+    <attr name="n0l" format="reference">
+    </attr>
+    <attr name="sr9" format="reference">
+    </attr>
+    <attr name="rnb" format="reference">
+    </attr>
+    <attr name="scg" format="reference">
+    </attr>
+    <attr name="nl8" format="reference">
+    </attr>
+    <attr name="ehk" format="reference">
+    </attr>
+    <attr name="adr" format="reference">
+    </attr>
+    <attr name="spq" format="reference">
+    </attr>
+    <attr name="xmu" format="reference">
+    </attr>
+    <attr name="e88" format="reference">
+    </attr>
+    <attr name="lip" format="reference">
+    </attr>
+    <attr name="skw" format="reference">
+    </attr>
+    <attr name="f51" format="reference">
+    </attr>
+    <attr name="ngf" format="reference">
+    </attr>
+    <attr name="kgs" format="reference">
+    </attr>
+    <attr name="ikl" format="reference">
+    </attr>
+    <attr name="lad" format="dimension">
+    </attr>
+    <attr name="x41" format="reference">
+    </attr>
+    <attr name="tiw" format="reference">
+    </attr>
+    <attr name="ojx" format="reference">
+    </attr>
+    <attr name="c14" format="reference">
+    </attr>
+    <attr name="q1v" format="float">
+    </attr>
+    <attr name="awc" format="dimension">
+    </attr>
+    <attr name="yzm" format="dimension">
+    </attr>
+    <attr name="e2u" format="integer">
+    </attr>
+    <attr name="i69" format="dimension">
+    </attr>
+    <attr name="jtt" format="dimension">
+    </attr>
+    <attr name="b25" format="integer">
+    </attr>
+    <attr name="ch3" format="float">
+    </attr>
+    <attr name="e5q" format="dimension">
+    </attr>
+    <attr name="n6p" format="boolean">
+    </attr>
+    <attr name="aei" format="reference">
+    </attr>
+    <attr name="gh5">
+        <enum name="uv_" value="81" />
+        <enum name="i88" value="17" />
+        <enum name="oym" value="49" />
+    </attr>
+    <attr name="z5l" format="string">
+    </attr>
+    <attr name="z23" format="dimension">
+    </attr>
+    <attr name="kb2" format="integer">
+    </attr>
+    <attr name="yz6" format="dimension">
+    </attr>
+    <attr name="xa5" format="dimension">
+    </attr>
+    <attr name="h47" format="dimension">
+    </attr>
+    <attr name="jg9" format="color">
+    </attr>
+    <attr name="cmm" format="string">
+    </attr>
+    <attr name="yok" format="color">
+    </attr>
+    <attr name="gy1" format="color">
+    </attr>
+    <attr name="n_a" format="boolean">
+    </attr>
+    <attr name="ddw" format="boolean">
+    </attr>
+    <attr name="o9d">
+        <enum name="yc2" value="0" />
+        <enum name="qel" value="3" />
+        <enum name="pqe" value="2" />
+        <enum name="uwf" value="1" />
+    </attr>
+    <attr name="p5l" format="integer">
+    </attr>
+    <attr name="g1g" format="integer">
+    </attr>
+    <attr name="ia5" format="integer">
+    </attr>
+    <attr name="p4p" format="integer">
+    </attr>
+    <attr name="wyp" format="integer">
+    </attr>
+    <attr name="qgv" format="integer">
+    </attr>
+    <attr name="cul" format="string">
+    </attr>
+    <attr name="rbl" format="string">
+    </attr>
+    <attr name="rpe" format="string">
+    </attr>
+    <attr name="bvg" format="string">
+    </attr>
+    <attr name="sdc" format="string">
+    </attr>
+    <attr name="eb0" format="float">
+    </attr>
+    <attr name="fpe" format="integer">
+    </attr>
+    <attr name="k2z">
+        <enum name="ta3" value="-1" />
+        <enum name="awi" value="2" />
+        <enum name="ejg" value="0" />
+        <enum name="efn" value="1" />
+        <enum name="tan" value="3" />
+    </attr>
+    <attr name="qiu" format="integer">
+    </attr>
+    <attr name="sb6" format="boolean">
+    </attr>
+    <attr name="bi7" format="dimension">
+    </attr>
+    <attr name="mke" format="dimension">
+    </attr>
+    <attr name="ndt" format="reference">
+    </attr>
+    <attr name="ctg" format="reference|string">
+        <enum name="cbx" value="6" />
+        <enum name="pat" value="4" />
+        <enum name="q0" value="1" />
+        <enum name="e11" value="0" />
+        <enum name="k63" value="2" />
+        <enum name="ccj" value="3" />
+        <enum name="xq0" value="5" />
+    </attr>
+    <attr name="xke" format="string">
+        <enum name="a8x" value="1" />
+        <enum name="ccj" value="0" />
+    </attr>
+    <attr name="t31" format="float">
+    </attr>
+    <attr name="g7g" format="float">
+    </attr>
+    <attr name="ud9" format="float">
+    </attr>
+    <attr name="uvu" format="reference|string">
+    </attr>
+    <attr name="aw8" format="boolean">
+    </attr>
+    <attr name="vz7" format="reference">
+    </attr>
+    <attr name="pjs" format="boolean">
+    </attr>
+    <attr name="fmm" format="reference">
+    </attr>
+    <attr name="mg5" format="string">
+    </attr>
+    <attr name="z2c" format="reference">
+    </attr>
+    <attr name="bwb" format="color">
+    </attr>
+    <attr name="ig0">
+        <enum name="rm4" value="1" />
+        <enum name="njp" value="0" />
+        <enum name="ep9" value="2" />
+    </attr>
+    <attr name="k5z" format="reference">
+    </attr>
+    <attr name="egl" format="reference">
+    </attr>
+    <attr name="o8s">
+        <flag name="kt" value="0x1" />
+        <flag name="r8l" value="0x2" />
+        <flag name="kqq" value="0x0" />
+        <flag name="lwg" value="0x4" />
+    </attr>
+    <attr name="u3i" format="reference">
+    </attr>
+    <attr name="lgm" format="boolean">
+    </attr>
+    <attr name="dmw" format="boolean">
+    </attr>
+    <attr name="u00" format="color">
+    </attr>
+    <attr name="jsu" format="color">
+    </attr>
+    <attr name="d6r" format="dimension">
+    </attr>
+    <attr name="e0t" format="integer">
+    </attr>
+    <attr name="yt7" format="integer">
+    </attr>
+    <attr name="i5u">
+        <flag name="f8b" value="0x2" />
+        <flag name="wvs" value="0x1000" />
+        <flag name="n4g" value="0x8" />
+        <flag name="oil" value="0x10000" />
+        <flag name="et" value="0x1" />
+        <flag name="d65" value="0x4" />
+    </attr>
+    <attr name="mzh" format="string">
+    </attr>
+    <attr name="sfb" format="boolean">
+    </attr>
+    <attr name="kb6" format="string">
+    </attr>
+    <attr name="tmi" format="string">
+    </attr>
+    <attr name="qzk" format="boolean">
+    </attr>
+    <attr name="qzf">
+        <enum name="ohn" value="1" />
+        <enum name="b84" value="3" />
+        <enum name="dft" value="2" />
+        <enum name="v8t" value="4" />
+        <enum name="xfw" value="5" />
+    </attr>
+    <attr name="z36">
+        <enum name="i69" value="0" />
+        <enum name="jps" value="2" />
+        <enum name="hti" value="1" />
+        <enum name="e9n" value="4" />
+        <enum name="k8a" value="5" />
+        <enum name="zgx" value="7" />
+        <enum name="axp" value="6" />
+        <enum name="ep3" value="3" />
+    </attr>
+    <attr name="ye3" format="boolean">
+    </attr>
+    <attr name="aci" format="integer">
+    </attr>
+    <attr name="x4v" format="boolean">
+    </attr>
+    <attr name="qxz" format="boolean">
+    </attr>
+    <attr name="n6u" format="dimension">
+    </attr>
+    <attr name="mp6" format="boolean">
+    </attr>
+    <attr name="tgh" format="dimension">
+    </attr>
+    <attr name="amm" format="boolean">
+    </attr>
+    <attr name="i__" format="boolean">
+    </attr>
+    <attr name="igx" format="dimension">
+    </attr>
+    <attr name="oiv" format="dimension">
+    </attr>
+    <attr name="pap" format="boolean">
+    </attr>
+    <attr name="j_8" format="reference">
+    </attr>
+    <attr name="qaa" format="reference">
+    </attr>
+    <attr name="hby" format="dimension">
+    </attr>
+    <attr name="st" format="string">
+    </attr>
+    <attr name="vfs" format="reference">
+    </attr>
+    <attr name="kzp" format="boolean">
+    </attr>
+    <attr name="xi_" format="color">
+    </attr>
+    <attr name="m12">
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="hq">
+        <enum name="roa" value="3" />
+        <enum name="kqq" value="0" />
+        <enum name="n_m" value="2" />
+        <enum name="hvs" value="1" />
+    </attr>
+    <attr name="da" format="float">
+    </attr>
+    <attr name="p_p" format="float">
+    </attr>
+    <attr name="bok" format="float">
+    </attr>
+    <attr name="s_u" format="float">
+    </attr>
+    <attr name="fc2" format="float">
+    </attr>
+    <attr name="n_8" format="float">
+    </attr>
+    <attr name="ito" format="reference">
+        <enum name="m53" value="0" />
+    </attr>
+    <attr name="v1c" format="string">
+    </attr>
+    <attr name="c_f" format="reference">
+    </attr>
+    <attr name="cu0" format="color">
+    </attr>
+    <attr name="njx">
+        <enum name="o87" value="8" />
+        <enum name="qbn" value="4" />
+        <enum name="z3k" value="0" />
+    </attr>
+    <attr name="exi" format="reference">
+    </attr>
+    <attr name="jo_" format="reference">
+    </attr>
+    <attr name="f6e" format="reference">
+    </attr>
+    <attr name="w2y" format="reference">
+    </attr>
+    <attr name="xfu" format="reference">
+    </attr>
+    <attr name="mst" format="string">
+    </attr>
+    <attr name="t0b" format="reference">
+    </attr>
+    <attr name="vnu" format="color">
+    </attr>
+    <attr name="c7q" format="boolean">
+    </attr>
+    <attr name="jr1" format="dimension">
+    </attr>
+    <attr name="uj6" format="color">
+    </attr>
+    <attr name="r7l" format="color">
+    </attr>
+    <attr name="ub0" format="color">
+    </attr>
+    <attr name="zl" format="dimension">
+    </attr>
+    <attr name="hkl" format="integer">
+    </attr>
+    <attr name="atk" format="dimension">
+    </attr>
+    <attr name="gz0" format="reference">
+    </attr>
+    <attr name="s90" format="color">
+    </attr>
+    <attr name="cak" format="color">
+    </attr>
+    <attr name="w0w" format="string">
+    </attr>
+    <attr name="sh7" format="color">
+    </attr>
+    <attr name="xub" format="dimension">
+    </attr>
+    <attr name="a_m" format="dimension">
+    </attr>
+    <attr name="pbi" format="color">
+    </attr>
+    <attr name="vh_" format="dimension">
+    </attr>
+    <attr name="qgs" format="integer">
+    </attr>
+    <attr name="yl_" format="color">
+    </attr>
+    <attr name="fzo" format="dimension">
+    </attr>
+    <attr name="j4m" format="dimension">
+    </attr>
+    <attr name="w3j" format="boolean">
+    </attr>
+    <attr name="w1g" format="reference">
+    </attr>
+    <attr name="i6x" format="float">
+    </attr>
+    <attr name="uzf" format="dimension">
+    </attr>
+    <attr name="ebe" format="dimension">
+    </attr>
+    <attr name="ukk" format="color">
+    </attr>
+    <attr name="l7o" format="color">
+    </attr>
+    <attr name="a9t" format="dimension">
+    </attr>
+    <attr name="qe_" format="boolean">
+    </attr>
+    <attr name="t8h" format="color">
+    </attr>
+    <attr name="bc1" format="dimension">
+    </attr>
+    <attr name="b3w" format="color">
+    </attr>
+    <attr name="usc" format="color">
+    </attr>
+    <attr name="r3k" format="dimension">
+    </attr>
+    <attr name="h6n" format="color">
+    </attr>
+    <attr name="wo8" format="dimension">
+    </attr>
+    <attr name="je9" format="reference">
+    </attr>
+    <attr name="sru" format="dimension">
+    </attr>
+    <attr name="pf_" format="color">
+    </attr>
+    <attr name="z09" format="dimension">
+    </attr>
+    <attr name="oz5" format="string">
+    </attr>
+    <attr name="omn" format="color">
+    </attr>
+    <attr name="tcr" format="dimension">
+    </attr>
+    <attr name="l63" format="dimension">
+    </attr>
+    <attr name="lnw" format="dimension">
+    </attr>
+    <attr name="xhv" format="dimension">
+    </attr>
+    <attr name="zd_">
+        <enum name="hxp" value="2" />
+        <enum name="f0p" value="1" />
+        <enum name="u2m" value="4" />
+        <enum name="dwt" value="3" />
+    </attr>
+    <attr name="ara" format="boolean">
+    </attr>
+    <attr name="j9z">
+        <enum name="lii" value="1" />
+        <enum name="est" value="2" />
+        <enum name="fwq" value="3" />
+    </attr>
+    <attr name="vyl" format="color">
+    </attr>
+    <attr name="ra0" format="reference|string">
+        <enum name="pat" value="4" />
+        <enum name="q0" value="1" />
+        <enum name="e11" value="0" />
+        <enum name="k63" value="2" />
+        <enum name="ccj" value="3" />
+        <enum name="xq0" value="5" />
+    </attr>
+    <attr name="lhi" format="float">
+    </attr>
+    <attr name="v8f" format="integer">
+    </attr>
+    <attr name="w8q" format="reference">
+    </attr>
+    <attr name="gcp" format="string">
+    </attr>
+    <attr name="o7r" format="reference">
+    </attr>
+    <attr name="knb" format="reference">
+    </attr>
+    <attr name="g4r" format="dimension">
+    </attr>
+    <attr name="ysb" format="color">
+    </attr>
+    <attr name="m7s" format="reference">
+    </attr>
+    <attr name="w45" format="reference">
+    </attr>
+    <attr name="t1r" format="reference">
+    </attr>
+    <attr name="cxc" format="float">
+    </attr>
+    <attr name="cwj" format="boolean">
+    </attr>
+    <attr name="jab" format="boolean">
+    </attr>
+    <attr name="fsc" format="reference">
+    </attr>
+    <attr name="ym3" format="reference">
+    </attr>
+    <attr name="zjo" format="reference">
+    </attr>
+    <attr name="z9m" format="dimension">
+    </attr>
+    <attr name="tg3" format="dimension">
+    </attr>
+    <attr name="fb4" format="dimension">
+    </attr>
+    <attr name="r8c" format="dimension">
+    </attr>
+    <attr name="ixp">
+        <enum name="lwb" value="3" />
+        <enum name="otp" value="0" />
+        <enum name="ap6" value="2" />
+        <enum name="veo" value="1" />
+        <enum name="j_r" value="4" />
+    </attr>
+    <attr name="ktd" format="boolean">
+    </attr>
+    <attr name="qhj" format="color">
+    </attr>
+    <attr name="j2u" format="reference">
+    </attr>
+    <attr name="vwe" format="dimension">
+    </attr>
+    <attr name="nme" format="float">
+    </attr>
+    <attr name="va7" format="integer">
+    </attr>
+    <attr name="n3i">
+        <enum name="uv_" value="1" />
+        <enum name="i88" value="2" />
+        <enum name="oym" value="0" />
+    </attr>
+    <attr name="fhi" format="dimension">
+    </attr>
+    <attr name="oq4" format="color">
+    </attr>
+    <attr name="t14" format="reference">
+    </attr>
+    <attr name="vet" format="dimension">
+        <enum name="si" value="-1" />
+    </attr>
+    <attr name="tfm" format="dimension">
+    </attr>
+    <attr name="wmm" format="dimension">
+    </attr>
+    <attr name="d82" format="dimension">
+    </attr>
+    <attr name="n1i" format="dimension">
+    </attr>
+    <attr name="ut6" format="dimension">
+    </attr>
+    <attr name="ig9" format="dimension">
+    </attr>
+    <attr name="xi4">
+        <enum name="d0k" value="1" />
+        <enum name="vat" value="3" />
+        <enum name="p33" value="2" />
+        <enum name="ucy" value="0" />
+    </attr>
+    <attr name="brh" format="color">
+    </attr>
+    <attr name="m46">
+        <enum name="wr1" value="2" />
+        <enum name="wk_" value="1" />
+    </attr>
+    <attr name="rz8" format="dimension">
+    </attr>
+    <attr name="ps5" format="dimension">
+        <enum name="si" value="-1" />
+    </attr>
+    <attr name="leu" format="float">
+    </attr>
+    <attr name="xv4" format="float">
+    </attr>
+    <attr name="h7h" format="float">
+    </attr>
+    <attr name="h2p">
+        <enum name="z30" value="2" />
+        <enum name="e8e" value="1" />
+    </attr>
+    <attr name="k12">
+        <enum name="su8" value="1" />
+        <enum name="xi8" value="2" />
+    </attr>
+    <attr name="fvn" format="color">
+    </attr>
+    <attr name="j0" format="color">
+    </attr>
+    <attr name="kkl" format="reference">
+    </attr>
+    <attr name="mc" format="reference">
+    </attr>
+    <attr name="zgr" format="dimension">
+    </attr>
+    <attr name="t8c" format="dimension">
+    </attr>
+    <attr name="mxv" format="boolean">
+    </attr>
+    <attr name="i_w" format="color">
+    </attr>
+    <attr name="c71" format="reference">
+    </attr>
+    <attr name="v5d" format="dimension">
+    </attr>
+    <attr name="blk" format="dimension">
+    </attr>
+    <attr name="of8" format="dimension">
+    </attr>
+    <attr name="rc9" format="integer">
+    </attr>
+    <attr name="lum" format="reference">
+    </attr>
+    <attr name="h7o" format="dimension">
+    </attr>
+    <attr name="iny" format="reference">
+    </attr>
+    <attr name="jwd" format="float">
+    </attr>
+    <attr name="ynq" format="dimension">
+    </attr>
+    <attr name="uv0">
+        <enum name="i88" value="1" />
+        <enum name="su8" value="0" />
+        <enum name="xi8" value="2" />
+    </attr>
+    <attr name="x_r" format="color">
+    </attr>
+    <attr name="rx5">
+        <enum name="uv_" value="1" />
+        <enum name="oym" value="0" />
+    </attr>
+    <attr name="rvp">
+        <enum name="trk" value="0" />
+        <enum name="wz5" value="1" />
+    </attr>
+    <attr name="y22" format="integer">
+    </attr>
+    <attr name="tg9">
+        <enum name="wr1" value="2" />
+        <enum name="wk_" value="1" />
+    </attr>
+    <attr name="i5y" format="reference">
+    </attr>
+    <attr name="qc7" format="color">
+    </attr>
+    <attr name="lxs" format="dimension">
+    </attr>
+    <attr name="xux" format="dimension">
+    </attr>
+    <attr name="cra" format="float">
+    </attr>
+    <attr name="shi" format="dimension">
+    </attr>
+    <attr name="ee3">
+        <enum name="sui" value="1" />
+        <enum name="vf5" value="2" />
+        <enum name="d23" value="0" />
+        <enum name="si_" value="4" />
+        <enum name="gnq" value="5" />
+        <enum name="q8x" value="3" />
+    </attr>
+    <attr name="kly" format="reference|string">
+    </attr>
+    <attr name="q_6" format="integer">
+    </attr>
+    <attr name="xpa" format="reference|color">
+    </attr>
+    <attr name="ytc" format="dimension">
+    </attr>
+    <attr name="br1" format="reference">
+    </attr>
+    <attr name="j9y" format="reference">
+    </attr>
+    <attr name="akn" format="reference">
+    </attr>
+    <attr name="prw" format="reference">
+    </attr>
+    <attr name="sxf" format="reference">
+    </attr>
+    <attr name="k3v" format="reference">
+    </attr>
+    <attr name="g4z" format="reference">
+    </attr>
+    <attr name="kqo" format="integer">
+    </attr>
+    <attr name="yxb" format="color">
+    </attr>
+    <attr name="s4h" format="dimension">
+    </attr>
+    <attr name="wht" format="boolean">
+    </attr>
+    <attr name="ere" format="dimension">
+    </attr>
+    <attr name="ef4" format="reference">
+    </attr>
+    <attr name="t26" format="reference">
+    </attr>
+    <attr name="qpg" format="reference">
+    </attr>
+    <attr name="g7" format="reference">
+    </attr>
+    <attr name="prh" format="reference">
+    </attr>
+    <attr name="fxo" format="reference">
+    </attr>
+    <attr name="ai6" format="boolean">
+    </attr>
+    <attr name="kdv">
+        <enum name="yvl" value="2" />
+        <enum name="kqq" value="0" />
+        <enum name="kng" value="1" />
+    </attr>
+    <attr name="v98">
+        <flag name="lwi" value="0x2" />
+        <flag name="orl" value="0x8" />
+        <flag name="nc6" value="0x1" />
+        <flag name="kja" value="0x0" />
+        <flag name="hgh" value="0x4" />
+    </attr>
+    <attr name="q0j" format="integer">
+    </attr>
+    <attr name="hnw">
+        <flag name="dtr" value="0x1" />
+        <flag name="cgd" value="0x4" />
+        <flag name="vbu" value="0x2" />
+        <flag name="kqq" value="0x0" />
+    </attr>
+    <attr name="d3p" format="reference">
+    </attr>
+    <attr name="fou" format="boolean">
+    </attr>
+    <attr name="mj4" format="boolean">
+    </attr>
+    <attr name="n5i" format="boolean">
+    </attr>
+    <attr name="izr" format="reference">
+    </attr>
+    <attr name="ei3" format="reference">
+    </attr>
+    <attr name="fdr" format="boolean">
+    </attr>
+    <attr name="w0p" format="boolean">
+    </attr>
+    <attr name="vjx" format="boolean">
+    </attr>
+    <attr name="m__" format="float">
+    </attr>
+    <attr name="i8t" format="reference">
+    </attr>
+    <attr name="mr" format="reference">
+    </attr>
+    <attr name="e1w" format="reference">
+    </attr>
+    <attr name="fqf" format="reference">
+    </attr>
+    <attr name="skr" format="integer">
+    </attr>
+    <attr name="gob" format="boolean">
+    </attr>
+    <attr name="uhw" format="reference">
+    </attr>
+    <attr name="hmi" format="reference">
+    </attr>
+    <attr name="i_y" format="boolean">
+    </attr>
+    <attr name="qeu">
+        <flag name="a5p" value="0x3" />
+        <flag name="opd" value="0x2" />
+        <flag name="ft0" value="0x1" />
+        <flag name="xq0" value="0x0" />
+    </attr>
+    <attr name="wqy" format="float">
+    </attr>
+    <attr name="nj4" format="float">
+    </attr>
+    <attr name="kvq" format="float">
+    </attr>
+    <attr name="j3m" format="float">
+    </attr>
+    <attr name="op9" format="reference">
+    </attr>
+    <attr name="iua" format="color">
+    </attr>
+    <attr name="j6r">
+        <enum name="iwt" value="2" />
+        <enum name="wz9" value="1" />
+        <enum name="ses" value="0" />
+    </attr>
+    <attr name="h8g" format="boolean">
+    </attr>
+    <attr name="tp6" format="boolean">
+    </attr>
+    <attr name="o8o" format="float">
+    </attr>
+    <attr name="dsa" format="reference">
+    </attr>
+    <attr name="yqo" format="dimension">
+    </attr>
+    <attr name="al9" format="dimension">
+    </attr>
+    <attr name="nhr" format="reference">
+    </attr>
+    <attr name="mz3" format="dimension">
+    </attr>
+    <attr name="bh1" format="dimension">
+    </attr>
+    <attr name="sx" format="boolean">
+    </attr>
+    <attr name="o9y" format="boolean">
+    </attr>
+    <attr name="ir9" format="boolean">
+    </attr>
+    <attr name="lbc" format="boolean">
+    </attr>
+    <attr name="zex" format="boolean">
+    </attr>
+    <attr name="bf1" format="boolean">
+    </attr>
+    <attr name="ag9" format="boolean">
+    </attr>
+    <attr name="lie" format="boolean">
+    </attr>
+    <attr name="ei6" format="boolean">
+    </attr>
+    <attr name="eo7" format="boolean">
+    </attr>
+    <attr name="c2s" format="boolean">
+    </attr>
+    <attr name="g6t" format="boolean">
+    </attr>
+    <attr name="szr" format="boolean">
+    </attr>
+    <attr name="s2m" format="boolean">
+    </attr>
+    <attr name="bsv" format="boolean">
+    </attr>
+    <attr name="af0" format="boolean">
+    </attr>
+    <attr name="po0" format="integer">
+    </attr>
+    <attr name="zcm" format="reference">
+    </attr>
+    <attr name="axt" format="reference">
+    </attr>
+    <attr name="u5l" format="dimension">
+    </attr>
+    <attr name="h0c" format="float">
+    </attr>
+    <attr name="enm" format="float">
+    </attr>
+    <attr name="cnc" format="dimension">
+    </attr>
+    <attr name="yil" format="float">
+    </attr>
+    <attr name="lir" format="float">
+    </attr>
+    <attr name="kjs" format="color">
+    </attr>
+    <attr name="czl" format="integer">
+    </attr>
+    <attr name="xgr" format="dimension">
+    </attr>
+    <attr name="xvt" format="dimension">
+    </attr>
+    <attr name="s1" format="dimension">
+    </attr>
+    <attr name="cw3" format="boolean">
+    </attr>
+    <attr name="cwh" format="float">
+    </attr>
+    <attr name="o0" format="boolean">
+    </attr>
+    <attr name="pfk" format="string">
+    </attr>
+    <attr name="u31" format="reference">
+    </attr>
+    <attr name="ai_" format="color">
+    </attr>
+    <attr name="bvb">
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="bub" format="boolean">
+    </attr>
+    <attr name="zd6" format="boolean">
+    </attr>
+    <attr name="vym" format="boolean">
+    </attr>
+    <attr name="m1y" format="boolean">
+    </attr>
+    <attr name="ho_" format="boolean">
+    </attr>
+    <attr name="pht" format="boolean">
+    </attr>
+    <attr name="i82" format="reference|color">
+    </attr>
+    <attr name="wsi" format="color">
+    </attr>
+    <attr name="n3l" format="color">
+    </attr>
+    <attr name="epr" format="color">
+    </attr>
+    <attr name="k7n" format="dimension">
+    </attr>
+    <attr name="p4b" format="reference">
+    </attr>
+    <attr name="oh8" format="reference">
+    </attr>
+    <attr name="kyh" format="string">
+    </attr>
+    <attr name="uut" format="boolean">
+    </attr>
+    <attr name="wmu" format="reference">
+    </attr>
+    <attr name="fy0" format="color">
+    </attr>
+    <attr name="b08" format="reference">
+    </attr>
+    <attr name="af5" format="string">
+    </attr>
+    <attr name="mfw" format="reference">
+    </attr>
+    <attr name="av4" format="color">
+    </attr>
+    <attr name="mzt" format="reference">
+    </attr>
+    <attr name="k46">
+        <enum name="kqq" value="0" />
+        <enum name="den" value="1" />
+        <enum name="int" value="2" />
+    </attr>
+    <attr name="gjm" format="dimension">
+    </attr>
+    <attr name="i3s" format="dimension">
+    </attr>
+    <attr name="w65" format="reference">
+    </attr>
+    <attr name="adu" format="reference">
+    </attr>
+    <attr name="t6h" format="reference">
+    </attr>
+    <attr name="n4_" format="dimension">
+    </attr>
+    <attr name="jhs">
+        <enum name="i88" value="1" />
+        <enum name="lwb" value="0" />
+        <enum name="nrj" value="2" />
+    </attr>
+    <attr name="oku" format="color">
+    </attr>
+    <attr name="gp7">
+        <enum name="w0q" value="16" />
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="cv7" format="reference">
+    </attr>
+    <attr name="sq_" format="integer">
+    </attr>
+    <attr name="j9k">
+        <enum name="qur" value="1" />
+        <enum name="ccj" value="0" />
+    </attr>
+    <attr name="jc7" format="color">
+    </attr>
+    <attr name="xzd" format="boolean">
+    </attr>
+    <attr name="yms">
+        <enum name="uv_" value="0" />
+        <enum name="i88" value="1" />
+        <enum name="xmf" value="3" />
+        <enum name="oym" value="2" />
+    </attr>
+    <attr name="kys" format="dimension">
+    </attr>
+    <attr name="wyn" format="boolean">
+    </attr>
+    <attr name="epm" format="dimension">
+    </attr>
+    <attr name="wgz" format="dimension">
+    </attr>
+    <attr name="ikr">
+        <enum name="ta3" value="2" />
+        <enum name="twa" value="1" />
+        <enum name="c3n" value="0" />
+    </attr>
+    <attr name="i_v" format="dimension">
+    </attr>
+    <attr name="i1c" format="dimension">
+    </attr>
+    <attr name="lx" format="dimension">
+    </attr>
+    <attr name="t4m" format="dimension">
+    </attr>
+    <attr name="g9w" format="dimension">
+    </attr>
+    <attr name="c7l" format="color">
+    </attr>
+    <attr name="pda" format="color">
+    </attr>
+    <attr name="m4" format="reference">
+    </attr>
+    <attr name="rll" format="reference">
+    </attr>
+    <attr name="z3f" format="color">
+    </attr>
+    <attr name="myy" format="boolean">
+    </attr>
+    <attr name="z7t" format="reference">
+    </attr>
+    <attr name="l_8" format="color">
+    </attr>
+    <attr name="tzd" format="float">
+    </attr>
+    <attr name="rr0">
+        <enum name="v18" value="0" />
+        <enum name="l5n" value="1" />
+        <enum name="b4n" value="3" />
+        <enum name="ug9" value="2" />
+    </attr>
+    <attr name="l8" format="reference|boolean">
+    </attr>
+    <attr name="t70" format="reference">
+    </attr>
+    <attr name="d_8" format="reference">
+    </attr>
+    <attr name="ltb" format="reference">
+    </attr>
+    <attr name="zmv" format="reference">
+    </attr>
+    <attr name="vcc" format="reference">
+    </attr>
+    <attr name="uc6" format="reference">
+    </attr>
+    <attr name="ukv" format="reference">
+    </attr>
+    <attr name="avm" format="reference">
+    </attr>
+    <attr name="ibw" format="reference">
+    </attr>
+    <attr name="nyq" format="reference">
+    </attr>
+    <attr name="asy" format="reference">
+    </attr>
+    <attr name="y78" format="boolean">
+    </attr>
+    <attr name="f7t" format="reference">
+    </attr>
+    <attr name="hxo" format="reference">
+    </attr>
+    <attr name="mwu" format="reference">
+    </attr>
+    <attr name="bm9" format="reference">
+    </attr>
+    <attr name="h6e" format="reference">
+    </attr>
+    <attr name="hr6" format="reference">
+    </attr>
+    <attr name="znx" format="reference">
+    </attr>
+    <attr name="nr0" format="reference">
+    </attr>
+    <attr name="pu0" format="reference">
+    </attr>
+    <attr name="zdm" format="reference">
+    </attr>
+    <attr name="w5r" format="reference">
+    </attr>
+    <attr name="vm5" format="float">
+    </attr>
+    <attr name="h9j" format="float">
+    </attr>
+    <attr name="nc7" format="float">
+    </attr>
+    <attr name="zlr" format="float">
+    </attr>
+    <attr name="umv" format="reference|color">
+    </attr>
+    <attr name="y8y" format="reference|color">
+    </attr>
+    <attr name="eb3" format="dimension">
+    </attr>
+    <attr name="d77" format="color">
+    </attr>
+    <attr name="nv9" format="boolean">
+    </attr>
+    <attr name="hzr" format="reference">
+    </attr>
+    <attr name="gmc" format="string">
+    </attr>
+    <attr name="klt" format="color">
+    </attr>
+    <attr name="v0y" format="dimension">
+    </attr>
+    <attr name="jqg" format="float">
+    </attr>
+    <attr name="yb3" format="float">
+    </attr>
+    <attr name="mt6" format="dimension">
+    </attr>
+    <attr name="fls" format="integer">
+    </attr>
+    <attr name="ps3">
+        <enum name="qi5" value="1" />
+        <enum name="kqq" value="0" />
+    </attr>
+    <attr name="bw4" format="dimension">
+    </attr>
+    <attr name="pex" format="dimension">
+    </attr>
+    <attr name="l9j" format="reference">
+    </attr>
+    <attr name="e07" format="dimension">
+    </attr>
+    <attr name="s__" format="dimension">
+    </attr>
+    <attr name="inz" format="color">
+    </attr>
+    <attr name="iq1" format="dimension">
+    </attr>
+    <attr name="vtf" format="dimension">
+    </attr>
+    <attr name="lj1" format="color">
+    </attr>
+    <attr name="ql7" format="dimension">
+    </attr>
+    <attr name="wy3" format="dimension">
+    </attr>
+    <attr name="t4_" format="color">
+    </attr>
+    <attr name="eqb">
+        <enum name="w0q" value="16" />
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="l96" format="color">
+    </attr>
+    <attr name="bli" format="color">
+    </attr>
+    <attr name="jzd" format="color">
+    </attr>
+    <attr name="z2e" format="reference">
+    </attr>
+    <attr name="ty3" format="color">
+    </attr>
+    <attr name="nu4">
+        <enum name="w0q" value="16" />
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="cy8" format="boolean">
+    </attr>
+    <attr name="rk" format="color">
+    </attr>
+    <attr name="g4i">
+        <enum name="w0q" value="16" />
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="ugw" format="string">
+    </attr>
+    <attr name="u40" format="boolean">
+    </attr>
+    <attr name="y07">
+        <enum name="cs5" value="1" />
+        <enum name="fgq" value="0" />
+    </attr>
+    <attr name="z9g" format="boolean">
+    </attr>
+    <attr name="mmq" format="dimension">
+    </attr>
+    <attr name="u12" format="dimension">
+    </attr>
+    <attr name="d02" format="dimension">
+    </attr>
+    <attr name="gqx" format="dimension">
+    </attr>
+    <attr name="msb" format="dimension">
+    </attr>
+    <attr name="zri" format="dimension">
+    </attr>
+    <attr name="gss" format="reference">
+    </attr>
+    <attr name="k7d" format="color">
+    </attr>
+    <attr name="g8w" format="reference">
+    </attr>
+    <attr name="hrr" format="reference">
+    </attr>
+    <attr name="i4t" format="reference">
+    </attr>
+    <attr name="rko" format="reference">
+    </attr>
+    <attr name="e0u" format="reference|color">
+    </attr>
+    <attr name="nuk" format="reference">
+    </attr>
+    <attr name="a9o" format="reference">
+    </attr>
+    <attr name="i2c" format="string">
+    </attr>
+    <attr name="d9c" format="integer">
+    </attr>
+    <attr name="a3y" format="reference">
+    </attr>
+    <attr name="jia">
+        <enum name="uv_" value="3" />
+        <enum name="cgd" value="6" />
+        <enum name="su8" value="1" />
+        <enum name="vbu" value="4" />
+        <enum name="xi8" value="2" />
+        <enum name="nrj" value="5" />
+        <enum name="oym" value="0" />
+    </attr>
+    <attr name="g69" format="reference">
+    </attr>
+    <attr name="jre" format="reference">
+    </attr>
+    <attr name="vb2" format="color">
+    </attr>
+    <attr name="tv9" format="color">
+    </attr>
+    <attr name="ihw" format="color">
+    </attr>
+    <attr name="aqa" format="dimension">
+    </attr>
+    <attr name="zv5" format="dimension">
+    </attr>
+    <attr name="h26" format="dimension">
+    </attr>
+    <attr name="xec" format="color">
+    </attr>
+    <attr name="pyo">
+        <enum name="w0q" value="16" />
+        <enum name="enn" value="14" />
+        <enum name="kuh" value="15" />
+        <enum name="yzg" value="9" />
+        <enum name="fhq" value="5" />
+        <enum name="sd8" value="3" />
+    </attr>
+    <attr name="tld" format="reference">
+    </attr>
+    <attr name="bw0" format="boolean">
+    </attr>
+    <attr name="nq7" format="string">
+        <enum name="y0y" value="1" />
+        <enum name="e9n" value="2" />
+        <enum name="ccj" value="3" />
+        <enum name="yjx" value="0" />
+    </attr>
+    <attr name="noj">
+        <flag name="yn5" value="0x1" />
+        <flag name="opz" value="0x2" />
+        <flag name="kqq" value="0x0" />
+    </attr>
+    <attr name="tr0" format="float">
+    </attr>
+    <attr name="zkr" format="reference">
+    </attr>
+    <attr name="bto" format="reference">
+    </attr>
+    <attr name="p7g" format="reference">
+    </attr>
+    <attr name="hd5" format="float">
+    </attr>
+    <attr name="jh4" format="integer">
+    </attr>
+    <attr name="ljq" format="dimension">
+    </attr>
+    <attr name="v2d" format="reference">
+    </attr>
+    <attr name="uwa" format="integer">
+    </attr>
+    <attr name="u9p" format="boolean">
+    </attr>
+    <attr name="fnd" format="boolean">
+    </attr>
+    <attr name="psp" format="reference">
+    </attr>
+    <attr name="yq_" format="dimension">
+    </attr>
+    <attr name="cow" format="string">
+    </attr>
+    <attr name="i35">
+        <enum name="ix8" value="1" />
+        <enum name="l2p" value="0" />
+        <enum name="tav" value="2" />
+    </attr>
+    <attr name="opf" format="reference">
+    </attr>
+    <attr name="yrs" format="reference">
+    </attr>
+    <attr name="enc" format="reference">
+    </attr>
+    <attr name="u9d">
+        <enum name="vlo" value="1" />
+        <enum name="njp" value="0" />
+    </attr>
+    <attr name="a4n" format="reference">
+    </attr>
+    <attr name="lp" format="float">
+    </attr>
+    <attr name="u4c" format="integer">
+    </attr>
+    <attr name="gjx" format="float|dimension">
+    </attr>
+    <attr name="x5s" format="float">
+    </attr>
+    <attr name="i0g" format="float">
+    </attr>
+    <attr name="ilm" format="string">
+        <enum name="pat" value="6" />
+        <enum name="n9x" value="5" />
+        <enum name="cy3" value="4" />
+        <enum name="d77" value="3" />
+        <enum name="te9" value="0" />
+        <enum name="hwz" value="1" />
+        <enum name="i74" value="2" />
+    </attr>
+    <attr name="dqs">
+        <enum name="afu" value="1" />
+        <enum name="re0" value="0" />
+    </attr>
+    <attr name="l1v" format="float">
+    </attr>
+    <attr name="s4k" format="boolean">
+    </attr>
+    <attr name="f11" format="boolean">
+    </attr>
+    <attr name="hjr" format="boolean">
+    </attr>
+    <attr name="gxx" format="dimension|fraction">
+    </attr>
+    <attr name="ddf" format="dimension|fraction">
+    </attr>
+    <attr name="jk3" format="dimension|fraction">
+    </attr>
+    <attr name="j_q" format="dimension|fraction">
+    </attr>
+    <attr name="oe2" format="dimension|fraction">
+    </attr>
+    <attr name="xn3" format="dimension|fraction">
+    </attr>
+    <attr name="abp" format="boolean">
+    </attr>
+    <attr name="w9u" format="reference">
+    </attr>
+    <attr name="bbk" format="reference">
+    </attr>
+    <attr name="qsy" format="reference">
+    </attr>
+    <attr name="xxf" format="dimension">
+    </attr>
+</resources>

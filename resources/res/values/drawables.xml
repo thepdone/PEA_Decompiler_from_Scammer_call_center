@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="cqe">@drawable/c54</drawable>
+    <drawable name="wpc">@drawable/pxd</drawable>
+    <drawable name="s48">#3333b5e5</drawable>
+    <drawable name="h58">#0cffffff</drawable>
+</resources>

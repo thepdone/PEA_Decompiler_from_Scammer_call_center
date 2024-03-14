@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/wm_" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@+id/nsj" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_begin="16dp"/>
+    <include android:id="@+id/nmx" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4dp" app:layout_constraintBottom_toTopOf="@+id/h0_" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toTopOf="@+id/nsj" app:layout_constraintVertical_chainStyle="2" layout="@layout/pwk"/>
+    <include android:id="@+id/h0_" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="12dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintLeft_toLeftOf="@+id/nmx" app:layout_constraintRight_toRightOf="@+id/nmx" app:layout_constraintTop_toBottomOf="@+id/nmx" app:layout_constraintVertical_chainStyle="2" layout="@layout/ste"/>
+    <com.google.android.material.timepicker.ClockFaceView android:id="@+id/ch5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/zxr" app:layout_constraintStart_toEndOf="@+id/nmx" app:layout_constraintTop_toTopOf="0"/>
+</merge>

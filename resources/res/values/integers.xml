@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="brh">220</integer>
+    <integer name="tvq">150</integer>
+    <integer name="v8f">300</integer>
+    <integer name="g_h">150</integer>
+    <integer name="ida">150</integer>
+    <integer name="w_p">127</integer>
+    <integer name="a9_">150</integer>
+    <integer name="otb">2</integer>
+    <integer name="brj">300</integer>
+    <integer name="kpi">12451000</integer>
+    <integer name="e86">320</integer>
+    <integer name="dd_">300</integer>
+    <integer name="pfl">350</integer>
+    <integer name="chi">200</integer>
+    <integer name="bcx">250</integer>
+    <integer name="kws">75</integer>
+    <integer name="sda">150</integer>
+    <integer name="kn1">0</integer>
+    <integer name="l6v">4</integer>
+    <integer name="dtm">100</integer>
+    <integer name="zv3">100</integer>
+    <integer name="pw3">1</integer>
+    <integer name="pnb">1</integer>
+    <integer name="sgu">3</integer>
+    <integer name="y9j">75</integer>
+    <integer name="fnj">120</integer>
+    <integer name="flm">100</integer>
+    <integer name="a7">250</integer>
+    <integer name="s2z">200</integer>
+    <integer name="xjl">999</integer>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_checkable="true" android:state_checked="true" android:color="?attr/s3u" android:alpha="1"/>
+    <item android:state_enabled="true" android:state_checkable="true" android:state_checked="false" android:color="?attr/sm4" android:alpha="0.6"/>
+    <item android:state_enabled="true" android:color="?attr/s3u" android:alpha="1"/>
+    <item android:color="?attr/sm4" android:alpha="0.38"/>
+</selector>

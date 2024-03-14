@@ -1,0 +1,7 @@
+Error decode manifest
+java.io.IOException: Expected strings start, expected offset not reachable: 0x3b8, actual: 0x1354
+	at jadx.core.xmlgen.ParserStream.skipToPos(ParserStream.java:132)
+	at jadx.core.xmlgen.CommonBinaryParser.parseStringPoolNoType(CommonBinaryParser.java:29)
+	at jadx.core.xmlgen.BinaryXMLParser.decode(BinaryXMLParser.java:110)
+	at jadx.core.xmlgen.BinaryXMLParser.parse(BinaryXMLParser.java:82)
+

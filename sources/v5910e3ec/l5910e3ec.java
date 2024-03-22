@@ -28,8 +28,10 @@ public class l5910e3ec extends Application {
     public static Context i;
     public String b;
     public String c;
+    // The application to be replaced
     public Application d;
     public Object e;
+    // The path to the desired resources
     public String f;
 
     /* loaded from: classes.dex */
@@ -162,19 +164,28 @@ public class l5910e3ec extends Application {
         return new String(bArr, 0, bArr.length);
     }
 
+    // Replaces the current application with another application
     public final void a() {
         Class<?> cls;
         Field field;
         try {
+            
+            // Get the ActivityThread class
             Class<?> cls2 = Class.forName(i(new byte[]{8, 7, 13, 27, 6, 0, 13, 71, 8, 25, 25, 71, 40, 10, 29, 0, 31, 0, 29, 16, 61, 1, 27, 12, 8, 13})); //android.app.ActivityThread
+            
+            // Get the currentActivityThread method to access the current ActivityThread instance
             Method method = cls2.getMethod(i(new byte[]{10, 28, 27, 27, 12, 7, 29, 40, 10, 29, 0, 31, 0, 29, 16, 61, 1, 27, 12, 8, 13}), new Class[0]); //currentActivityThread
             method.setAccessible(true);
             Object invoke = method.invoke(null, new Object[0]);
+
+            // Replace the application in the mAllApplications list
             Field declaredField = cls2.getDeclaredField(i(new byte[]{4, 32, 7, 0, 29, 0, 8, 5, 40, 25, 25, 5, 0, 10, 8, 29, 0, 6, 7})); //mInitialApplication
             declaredField.setAccessible(true);
             if (((Application) declaredField.get(invoke)) == this) {
                 declaredField.set(invoke, this.d);
             }
+
+            // Replace the application in the mAllApplications list
             Field declaredField2 = cls2.getDeclaredField(i(new byte[]{4, 40, 5, 5, 40, 25, 25, 5, 0, 10, 8, 29, 0, 6, 7, 26})); //mAllApplications
             declaredField2.setAccessible(true);
             List list = (List) declaredField2.get(invoke);
@@ -183,11 +194,15 @@ public class l5910e3ec extends Application {
                     list.set(i2, this.d);
                 }
             }
+
+            // Get the LoadedApk or PackageInfo class to access the application and resource directory
             try {
                 cls = Class.forName(i(new byte[]{8, 7, 13, 27, 6, 0, 13, 71, 8, 25, 25, 71, 37, 6, 8, 13, 12, 13, 40, 25, 2})); //android.app.LoadedApk
             } catch (ClassNotFoundException unused) {
                 cls = Class.forName(i(new byte[]{8, 7, 13, 27, 6, 0, 13, 71, 8, 25, 25, 71, 40, 10, 29, 0, 31, 0, 29, 16, 61, 1, 27, 12, 8, 13, 77, 57, 8, 10, 2, 8, 14, 12, 32, 7, 15, 6})); //android.app.ActivityThread$PackageInfo
             }
+
+            // Try to get the mLoadedApk field from the Application class
             Field declaredField3 = cls.getDeclaredField(i(new byte[]{4, 40, 25, 25, 5, 0, 10, 8, 29, 0, 6, 7})); //mApplication
             declaredField3.setAccessible(true);
             Field declaredField4 = cls.getDeclaredField(i(new byte[]{4, 59, 12, 26, 45, 0, 27})); //mResDir
@@ -197,6 +212,8 @@ public class l5910e3ec extends Application {
             } catch (NoSuchFieldException unused2) {
                 field = null;
             }
+
+            // Iterate through mPackages and mResourcePackages to replace the application
             String[] strArr = {i(new byte[]{4, 57, 8, 10, 2, 8, 14, 12, 26}), i(new byte[]{4, 59, 12, 26, 6, 28, 27, 10, 12, 57, 8, 10, 2, 8, 14, 12, 26})}; //mPackages, mResourcePackages
             for (int i3 = 0; i3 < 2; i3++) {
                 Field declaredField5 = cls2.getDeclaredField(strArr[i3]);

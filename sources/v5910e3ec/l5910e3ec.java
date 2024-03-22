@@ -23,14 +23,22 @@ import java.util.Map;
 
 /* loaded from: classes.dex */
 public class l5910e3ec extends Application {
+    
     public static String g;
+    
     public static String h;
+    
     public static Context i;
+    
     public String b;
+    
     public String c;
+    
     // The application to be replaced
     public Application d;
+    
     public Object e;
+
     // The path to the desired resources
     public String f;
 

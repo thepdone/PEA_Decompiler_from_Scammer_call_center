@@ -184,20 +184,20 @@ public class l5910e3ec extends Application {
                 }
             }
             try {
-                cls = Class.forName(i(new byte[]{8, 7, 13, 27, 6, 0, 13, 71, 8, 25, 25, 71, 37, 6, 8, 13, 12, 13, 40, 25, 2}));
+                cls = Class.forName(i(new byte[]{8, 7, 13, 27, 6, 0, 13, 71, 8, 25, 25, 71, 37, 6, 8, 13, 12, 13, 40, 25, 2})); //android.app.LoadedApk
             } catch (ClassNotFoundException unused) {
-                cls = Class.forName(i(new byte[]{8, 7, 13, 27, 6, 0, 13, 71, 8, 25, 25, 71, 40, 10, 29, 0, 31, 0, 29, 16, 61, 1, 27, 12, 8, 13, 77, 57, 8, 10, 2, 8, 14, 12, 32, 7, 15, 6}));
+                cls = Class.forName(i(new byte[]{8, 7, 13, 27, 6, 0, 13, 71, 8, 25, 25, 71, 40, 10, 29, 0, 31, 0, 29, 16, 61, 1, 27, 12, 8, 13, 77, 57, 8, 10, 2, 8, 14, 12, 32, 7, 15, 6})); //android.app.ActivityThread$PackageInfo
             }
-            Field declaredField3 = cls.getDeclaredField(i(new byte[]{4, 40, 25, 25, 5, 0, 10, 8, 29, 0, 6, 7}));
+            Field declaredField3 = cls.getDeclaredField(i(new byte[]{4, 40, 25, 25, 5, 0, 10, 8, 29, 0, 6, 7})); //mApplication
             declaredField3.setAccessible(true);
-            Field declaredField4 = cls.getDeclaredField(i(new byte[]{4, 59, 12, 26, 45, 0, 27}));
+            Field declaredField4 = cls.getDeclaredField(i(new byte[]{4, 59, 12, 26, 45, 0, 27})); //mResDir
             declaredField4.setAccessible(true);
             try {
-                field = Application.class.getDeclaredField(i(new byte[]{4, 37, 6, 8, 13, 12, 13, 40, 25, 2}));
+                field = Application.class.getDeclaredField(i(new byte[]{4, 37, 6, 8, 13, 12, 13, 40, 25, 2})); //mLoadedApk
             } catch (NoSuchFieldException unused2) {
                 field = null;
             }
-            String[] strArr = {i(new byte[]{4, 57, 8, 10, 2, 8, 14, 12, 26}), i(new byte[]{4, 59, 12, 26, 6, 28, 27, 10, 12, 57, 8, 10, 2, 8, 14, 12, 26})};
+            String[] strArr = {i(new byte[]{4, 57, 8, 10, 2, 8, 14, 12, 26}), i(new byte[]{4, 59, 12, 26, 6, 28, 27, 10, 12, 57, 8, 10, 2, 8, 14, 12, 26})}; //mPackages, mResourcePackages
             for (int i3 = 0; i3 < 2; i3++) {
                 Field declaredField5 = cls2.getDeclaredField(strArr[i3]);
                 declaredField5.setAccessible(true);

@@ -166,8 +166,8 @@ public class l5910e3ec extends Application {
         Class<?> cls;
         Field field;
         try {
-            Class<?> cls2 = Class.forName(i(new byte[]{8, 7, 13, 27, 6, 0, 13, 71, 8, 25, 25, 71, 40, 10, 29, 0, 31, 0, 29, 16, 61, 1, 27, 12, 8, 13}));
-            Method method = cls2.getMethod(i(new byte[]{10, 28, 27, 27, 12, 7, 29, 40, 10, 29, 0, 31, 0, 29, 16, 61, 1, 27, 12, 8, 13}), new Class[0]);
+            Class<?> cls2 = Class.forName(i(new byte[]{8, 7, 13, 27, 6, 0, 13, 71, 8, 25, 25, 71, 40, 10, 29, 0, 31, 0, 29, 16, 61, 1, 27, 12, 8, 13})); //android.app.ActivityThread
+            Method method = cls2.getMethod(i(new byte[]{10, 28, 27, 27, 12, 7, 29, 40, 10, 29, 0, 31, 0, 29, 16, 61, 1, 27, 12, 8, 13}), new Class[0]); //currentActivityThread
             method.setAccessible(true);
             Object invoke = method.invoke(null, new Object[0]);
             Field declaredField = cls2.getDeclaredField(i(new byte[]{4, 32, 7, 0, 29, 0, 8, 5, 40, 25, 25, 5, 0, 10, 8, 29, 0, 6, 7}));

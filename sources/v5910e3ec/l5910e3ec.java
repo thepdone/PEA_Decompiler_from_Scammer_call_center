@@ -170,12 +170,12 @@ public class l5910e3ec extends Application {
             Method method = cls2.getMethod(i(new byte[]{10, 28, 27, 27, 12, 7, 29, 40, 10, 29, 0, 31, 0, 29, 16, 61, 1, 27, 12, 8, 13}), new Class[0]); //currentActivityThread
             method.setAccessible(true);
             Object invoke = method.invoke(null, new Object[0]);
-            Field declaredField = cls2.getDeclaredField(i(new byte[]{4, 32, 7, 0, 29, 0, 8, 5, 40, 25, 25, 5, 0, 10, 8, 29, 0, 6, 7}));
+            Field declaredField = cls2.getDeclaredField(i(new byte[]{4, 32, 7, 0, 29, 0, 8, 5, 40, 25, 25, 5, 0, 10, 8, 29, 0, 6, 7})); //mInitialApplication
             declaredField.setAccessible(true);
             if (((Application) declaredField.get(invoke)) == this) {
                 declaredField.set(invoke, this.d);
             }
-            Field declaredField2 = cls2.getDeclaredField(i(new byte[]{4, 40, 5, 5, 40, 25, 25, 5, 0, 10, 8, 29, 0, 6, 7, 26}));
+            Field declaredField2 = cls2.getDeclaredField(i(new byte[]{4, 40, 5, 5, 40, 25, 25, 5, 0, 10, 8, 29, 0, 6, 7, 26})); //mAllApplications
             declaredField2.setAccessible(true);
             List list = (List) declaredField2.get(invoke);
             for (int i2 = 0; i2 < list.size(); i2++) {
